@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "letools"
+version = "0.1.0"
+description = "A web scraper for Last Epoch Tools"
+authors = [
+    {name = "Your Name"}
+]
+readme = "README.md"
+requires-python = ">=3.13.0"
+license = {text = "MIT"}
+dependencies = [
+    "selenium>=4.31.0",
+    "pandas>=2.2.3",
+    "requests>=2.32.3",
+    "ruff>=0.11.7",
+]
+
+[project.scripts]
+letools = "letools.main:main"
+
+[tool.setuptools]
+packages = ["letools"]

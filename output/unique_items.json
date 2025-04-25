@@ -1,0 +1,2900 @@
+[
+  {
+    "displayNameKey": "Item_Names.Unique_Name_0",
+    "id": 0,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Calamity"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_1",
+    "id": 1,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Fractured Crown"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_2",
+    "id": 2,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Snowblind"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_3",
+    "id": 3,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Artor''s Legacy"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_4",
+    "id": 4,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Decayed Skull"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_5",
+    "id": 5,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Isadora''s Revenge"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_6",
+    "id": 6,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Boneclamor Barbute"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_7",
+    "id": 7,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Kestrel"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_8",
+    "id": 8,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Doublet of Onos Tull"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_9",
+    "id": 9,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Prism Wraps"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_10",
+    "id": 10,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Urzil''s Pride"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_11",
+    "id": 11,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Exsanguinous"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_12",
+    "id": 12,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Yrun''s Wisdom"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_13",
+    "id": 13,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Titan Heart"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_14",
+    "id": 14,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Valeroot"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_15",
+    "id": 15,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Vipertail"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_16",
+    "id": 16,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Isadora''s Tomb Binding"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_17",
+    "id": 17,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Ward Trail"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_18",
+    "id": 18,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Chains of Uleros"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_19",
+    "id": 19,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Mourningfrost"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_20",
+    "id": 20,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Stormtide"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_21",
+    "id": 21,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Eterra''s Path"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_22",
+    "id": 22,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Keeper''s Gloves"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_23",
+    "id": 23,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Riverbend Grasp"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_24",
+    "id": 24,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Fighting Chance"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_25",
+    "id": 25,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Boulderfists"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_26",
+    "id": 26,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Isadora''s Gravechill"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_27",
+    "id": 27,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Wing Guards"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_28",
+    "id": 28,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Beast King"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_29",
+    "id": 29,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Taste of Blood"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_30",
+    "id": 30,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Undisputed"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_31",
+    "id": 31,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Tempest Maw"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_32",
+    "id": 32,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Frozen Ire"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_33",
+    "id": 33,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Culnivar''s Claim"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_34",
+    "id": 34,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Humming Bee"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_35",
+    "id": 35,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Eye of Reen"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_36",
+    "id": 36,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Rainbow Edge"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_37",
+    "id": 37,
+    "rarityTier": "T3",
+    "rerollChance": 0.25,
+    "name": "Cinder Song"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_38",
+    "id": 38,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Alchemist''s Ladle"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_39",
+    "id": 39,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Reach of the Grave"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_40",
+    "id": 40,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Bone Harvester"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_41",
+    "id": 41,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Hammer of Lorent"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_42",
+    "id": 42,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Torch Of The Pontifex"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_43",
+    "id": 43,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Storm Breaker"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_44",
+    "id": 44,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Draalsting"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_45",
+    "id": 45,
+    "rarityTier": "T1",
+    "rerollChance": 0.8,
+    "name": "Morditas'' Reach"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_47",
+    "id": 47,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Last Laugh"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_48",
+    "id": 48,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Volcanus"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_49",
+    "id": 49,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Dreamthorn"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_50",
+    "id": 50,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Slab"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_51",
+    "id": 51,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Close Call"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_52",
+    "id": 52,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Soul Bastion"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_53",
+    "id": 53,
+    "rarityTier": "T1",
+    "rerollChance": 0.8,
+    "name": "Rahyeh''s Light"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_54",
+    "id": 54,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Strong Mind"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_55",
+    "id": 55,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Bleeding Heart"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_56",
+    "id": 56,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Chimaera''s Essence"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_57",
+    "id": 57,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Invoker''s Frozen Heart"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_58",
+    "id": 58,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Claw"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_59",
+    "id": 59,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Death Rattle"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_60",
+    "id": 60,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Fang"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_61",
+    "id": 61,
+    "rarityTier": "T0",
+    "rerollChance": 0.97,
+    "name": "Orian''s Eye"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_62",
+    "id": 62,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Ring of the Third Eye"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_63",
+    "id": 63,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Invoker''s Scorching Grasp"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_64",
+    "id": 64,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Invoker''s Static Touch"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_65",
+    "id": 65,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Arboreal Circuit"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_66",
+    "id": 66,
+    "rarityTier": "T4",
+    "rerollChance": 0.2,
+    "name": "Hollow Finger"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_67",
+    "id": 67,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Tome of Elements"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_68",
+    "id": 68,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Grimoire of Necrotic Elixirs"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_70",
+    "id": 70,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Soulfire"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_71",
+    "id": 71,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "Valdyr''s Chalice"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_72",
+    "id": 72,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Orchirian''s Petals"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_73",
+    "id": 73,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Plague Bearer''s Staff"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_74",
+    "id": 74,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Ignivar''s Head"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_75",
+    "id": 75,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Scavenger"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_76",
+    "id": 76,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Liath''s Signet"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_80",
+    "id": 80,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Bloodgeon"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_81",
+    "id": 81,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Ucenui''s Sphere"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_82",
+    "id": 82,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Arek''s Bones"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_83",
+    "id": 83,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Maehlin''s Hubris"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_84",
+    "id": 84,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Heirloom of the Last Nomad"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_85",
+    "id": 85,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Sunforged Hammer"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_86",
+    "id": 86,
+    "rarityTier": "T4",
+    "rerollChance": 0.2,
+    "name": "Sunforged Cuirass"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_87",
+    "id": 87,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Sunforged Greathelm"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_88",
+    "id": 88,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Blade of the Forgotten Knight"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_89",
+    "id": 89,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Defiance of the Forgotten Knight"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_90",
+    "id": 90,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Locket of the Forgotten Knight"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_91",
+    "id": 91,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Fiery Dragon Shoes"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_92",
+    "id": 92,
+    "rarityTier": "T1",
+    "rerollChance": 0.9,
+    "name": "Jungle Queen''s Chaps of Holding"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_93",
+    "id": 93,
+    "rarityTier": "T4",
+    "rerollChance": 0.2,
+    "name": "Kermode''s Cage"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_94",
+    "id": 94,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Last Bear''s Fury"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_95",
+    "id": 95,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Last Bear''s Scorn"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_96",
+    "id": 96,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Last Bear''s Lament"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_97",
+    "id": 97,
+    "rarityTier": "T4",
+    "rerollChance": 0.2,
+    "name": "Halvar''s Pledge"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_98",
+    "id": 98,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Halvar''s Stand"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_99",
+    "id": 99,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Last Gift of the Mountain"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_100",
+    "id": 100,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Pebbles'' Femur"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_101",
+    "id": 101,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Pebbles'' Collar"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_102",
+    "id": 102,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Pebbles'' Bitemarked Sash"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_103",
+    "id": 103,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Legacy of the Quiet Forest"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_104",
+    "id": 104,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "Suloron''s Step"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_105",
+    "id": 105,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Ashen Crown"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_106",
+    "id": 106,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Shroud of Obscurity"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_107",
+    "id": 107,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Murama''s Hilt"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_108",
+    "id": 108,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "Melvern''s Writ"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_109",
+    "id": 109,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Shard of the Shattered Lance"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_110",
+    "id": 110,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Fragments of the Shattered Lance"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_111",
+    "id": 111,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Woven Flesh"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_112",
+    "id": 112,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Strands of Souls"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_113",
+    "id": 113,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Ribbons of Blood"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_114",
+    "id": 114,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Frozen Eyes of Formosus"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_115",
+    "id": 115,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Last Steps of the Living"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_116",
+    "id": 116,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Atrophy"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_117",
+    "id": 117,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Dark Shroud of Cinders"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_118",
+    "id": 118,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Confluence of Fate"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_119",
+    "id": 119,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Bulwark of the Last Abyss"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_120",
+    "id": 120,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Trident of the Last Abyss"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_121",
+    "id": 121,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Coral Aegis"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_122",
+    "id": 122,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Alluvion"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_123",
+    "id": 123,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Symbol of Demise"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_124",
+    "id": 124,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Dragonflame Edict"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_125",
+    "id": 125,
+    "rarityTier": "T1",
+    "rerollChance": 0.85,
+    "name": "Oceareon"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_126",
+    "id": 126,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Mortality''s Grasp"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_127",
+    "id": 127,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Boardman''s Plank"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_128",
+    "id": 128,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Boardman''s Fallacy"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_129",
+    "id": 129,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Boardman''s Legacy"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_130",
+    "id": 130,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Gambler''s Fallacy"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_131",
+    "id": 131,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Avarice"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_132",
+    "id": 132,
+    "rarityTier": "T3",
+    "rerollChance": 0.3,
+    "name": "Transient Rest"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_133",
+    "id": 133,
+    "rarityTier": "T3",
+    "rerollChance": 0.3,
+    "name": "Xithara''s Conundrum"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_134",
+    "id": 134,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Li''raka''s Claws"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_135",
+    "id": 135,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Quicksilver Coil"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_136",
+    "id": 136,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Smoke Weaver"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_137",
+    "id": 137,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Uethrin''s Stand"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_138",
+    "id": 138,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Zerrick''s Guile"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_139",
+    "id": 139,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Zerrick''s Greed"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_140",
+    "id": 140,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Zerrick''s Ambition"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_141",
+    "id": 141,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Hell Reach"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_142",
+    "id": 142,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Drelkor''s Compass"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_143",
+    "id": 143,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Gladiator''s Oath"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_144",
+    "id": 144,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Acidfletch"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_145",
+    "id": 145,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Life''s Journey"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_146",
+    "id": 146,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Troaka''s Teeth"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_147",
+    "id": 147,
+    "rarityTier": "T2",
+    "rerollChance": 0.65,
+    "name": "Raindance"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_148",
+    "id": 148,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Arrowguard"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_149",
+    "id": 149,
+    "rarityTier": "T1",
+    "rerollChance": 0.9,
+    "name": "Omnividence"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_150",
+    "id": 150,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Sunwreath"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_151",
+    "id": 151,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Eulogy of Blood"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_152",
+    "id": 152,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Anchor of Oblivion"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_153",
+    "id": 153,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Wings of Argentus"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_154",
+    "id": 154,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Eye of Storms"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_155",
+    "id": 155,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Horns of Uhkeiros"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_156",
+    "id": 156,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Gaspar''s Will"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_157",
+    "id": 157,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Gaspar''s Acuity"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_158",
+    "id": 158,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Gaspar''s Insight"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_159",
+    "id": 159,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Reign of Winter"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_160",
+    "id": 160,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Call of the Tundra"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_161",
+    "id": 161,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Faith of the Frozen"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_162",
+    "id": 162,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Bhuldar''s Wrath"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_163",
+    "id": 163,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Herkir''s Vessel"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_164",
+    "id": 164,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Logi''s Hunger"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_165",
+    "id": 165,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Serpent''s Milk"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_166",
+    "id": 166,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Moenia Mentis"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_167",
+    "id": 167,
+    "rarityTier": "T1",
+    "rerollChance": 0.8,
+    "name": "Ravens'' Rise"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_168",
+    "id": 168,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Flight of the First"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_169",
+    "id": 169,
+    "rarityTier": "T1",
+    "rerollChance": 0.75,
+    "name": "Aergon''s Refuge"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_170",
+    "id": 170,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Sinathia''s Dying Breath"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_171",
+    "id": 171,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Sinathia''s Resurrection"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_172",
+    "id": 172,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Herald of the Scurry"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_173",
+    "id": 173,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Ruby Fang Cleaver"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_174",
+    "id": 174,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Ruby Fang Aegis"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_175",
+    "id": 175,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Omnis"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_176",
+    "id": 176,
+    "rarityTier": "T1",
+    "rerollChance": 0.8,
+    "name": "Aurora''s Time Glass"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_177",
+    "id": 177,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Siphon of Anguish"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_178",
+    "id": 178,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Stymied Fate"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_179",
+    "id": 179,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Apathy''s Maw"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_180",
+    "id": 180,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Shattered Chains"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_181",
+    "id": 181,
+    "rarityTier": "T3",
+    "rerollChance": 0.3,
+    "name": "Marina''s Lost Soul"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_182",
+    "id": 182,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Eye of Orexia"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_183",
+    "id": 183,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Leviathan Carver"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_184",
+    "id": 184,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Lethal Concentration"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_185",
+    "id": 185,
+    "rarityTier": "T1",
+    "rerollChance": 0.75,
+    "name": "Vilatria''s Storm Crown"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_186",
+    "id": 186,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Vilatria''s Downfall"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_187",
+    "id": 187,
+    "rarityTier": "T1",
+    "rerollChance": 0.85,
+    "name": "Salt the Wound"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_188",
+    "id": 188,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Azurral''s Fury"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_189",
+    "id": 189,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Sanguine Hoard"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_190",
+    "id": 190,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Jasper''s Searing Pride"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_191",
+    "id": 191,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Devotion"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_192",
+    "id": 192,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Fulgurite Shard"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_193",
+    "id": 193,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Corsair''s Boarding Shield"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_194",
+    "id": 194,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Corsair''s Blood Cowl"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_195",
+    "id": 195,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Scales of Eterra"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_196",
+    "id": 196,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Scales of Eterra"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_197",
+    "id": 197,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Scales of Eterra"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_198",
+    "id": 198,
+    "rarityTier": "T1",
+    "rerollChance": 0.9,
+    "name": "Bastion of Honour"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_199",
+    "id": 199,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Rule of the Simoon"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_200",
+    "id": 200,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Tongue of the Aberrant Seer"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_201",
+    "id": 201,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Battlemage''s Endeavour"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_202",
+    "id": 202,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Stormhide Paws"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_203",
+    "id": 203,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Darkstride"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_204",
+    "id": 204,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Thorn Slinger"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_205",
+    "id": 205,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Curse of Perseverance"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_206",
+    "id": 206,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Lessons of the Metropolis"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_207",
+    "id": 207,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Kelthan Blasting Agent"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_208",
+    "id": 208,
+    "rarityTier": "T0",
+    "rerollChance": 0.98,
+    "name": "Ravenous Void"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_209",
+    "id": 209,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Aberrant Call"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_210",
+    "id": 210,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Flayer''s Pride"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_211",
+    "id": 211,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Throne of Ambition"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_212",
+    "id": 212,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Eternal Eclipse"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_213",
+    "id": 213,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Frostbite Shackles"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_214",
+    "id": 214,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Stormcarved Testament"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_215",
+    "id": 215,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Nightbringer"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_216",
+    "id": 216,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Twisted Heart of Uhkeiros"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_217",
+    "id": 217,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Sacrificial Embrace"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_218",
+    "id": 218,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Yulia''s Path"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_219",
+    "id": 219,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Trinity of Flames"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_220",
+    "id": 220,
+    "rarityTier": "T1",
+    "rerollChance": 0.85,
+    "name": "Death''s Embrace"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_221",
+    "id": 221,
+    "rarityTier": "T1",
+    "rerollChance": 0.9,
+    "name": "Paranoia"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_222",
+    "id": 222,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "Prismatic Gaze"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_223",
+    "id": 223,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Chronostasis"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_224",
+    "id": 224,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "The Judicator"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_225",
+    "id": 225,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Aurelis"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_226",
+    "id": 226,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Tu''rani''s Bident"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_227",
+    "id": 227,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Ferebor''s Chisel"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_228",
+    "id": 228,
+    "rarityTier": "T3",
+    "rerollChance": 0.4,
+    "name": "Ferebor''s Persistence"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_229",
+    "id": 229,
+    "rarityTier": "T3",
+    "rerollChance": 0.4,
+    "name": "Roots of Vithrasil"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_230",
+    "id": 230,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Usurper''s Mandate"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_231",
+    "id": 231,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Longshot"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_232",
+    "id": 232,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Hakar''s Phoenix"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_233",
+    "id": 233,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Snowdrift"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_234",
+    "id": 234,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Hazelroot"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_235",
+    "id": 235,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Silvafrond"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_236",
+    "id": 236,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Drought''s Release"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_237",
+    "id": 237,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Thornshell"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_238",
+    "id": 238,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Julra''s Stardial"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_239",
+    "id": 239,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Somnia"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_240",
+    "id": 240,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Julra''s Obsession"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_241",
+    "id": 241,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Vessel of Strife"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_242",
+    "id": 242,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "Shadow String"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_243",
+    "id": 243,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Dragonsong"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_244",
+    "id": 244,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Harthenon''s Vow"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_245",
+    "id": 245,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Renegade''s Will"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_246",
+    "id": 246,
+    "rarityTier": "T3",
+    "rerollChance": 0.3,
+    "name": "Singularity"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_247",
+    "id": 247,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Chronicle of the Damned"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_249",
+    "id": 249,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Diothaen''s Bloody Nib"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_250",
+    "id": 250,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Torkrefin''s Hunger"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_251",
+    "id": 251,
+    "rarityTier": "T4",
+    "rerollChance": 0.2,
+    "name": "Zeurial''s Hunt"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_252",
+    "id": 252,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Pact Severance"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_253",
+    "id": 253,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Foot of the Mountain"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_254",
+    "id": 254,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Face of the Mountain"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_255",
+    "id": 255,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Core of the Mountain"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_256",
+    "id": 256,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Peak of the Mountain"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_257",
+    "id": 257,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Ashes of Mortality"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_258",
+    "id": 258,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Immolator''s Oblation"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_259",
+    "id": 259,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Pyre of Affliction"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_260",
+    "id": 260,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Lich''s Envy"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_261",
+    "id": 261,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Lich''s Scorn"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_262",
+    "id": 262,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Penumbra"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_263",
+    "id": 263,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Omen of Thunder"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_264",
+    "id": 264,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Vaion''s Chariot"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_265",
+    "id": 265,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Soul Gambler''s Fallacy"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_266",
+    "id": 266,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Burning Avarice"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_267",
+    "id": 267,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Ashes of Orchirian"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_268",
+    "id": 268,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "Bloodkeeper''s Nest"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_269",
+    "id": 269,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Scales of Lemniscate"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_270",
+    "id": 270,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "Hive Mind"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_271",
+    "id": 271,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Gathering Fury"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_272",
+    "id": 272,
+    "rarityTier": "T1",
+    "rerollChance": 0.75,
+    "name": "Aaron''s Will"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_273",
+    "id": 273,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Lament of the Lost Refuge"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_274",
+    "id": 274,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Branch of Hallows"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_275",
+    "id": 275,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Unstable Core"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_276",
+    "id": 276,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Liath''s Machinations"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_277",
+    "id": 277,
+    "rarityTier": "T0",
+    "rerollChance": 0.98,
+    "name": "Red Ring of Atlaria"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_278",
+    "id": 278,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Tears of the Forest"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_279",
+    "id": 279,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Shadow Beacon"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_280",
+    "id": 280,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Telf''un''s Mirage"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_281",
+    "id": 281,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Vortex Pennant"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_282",
+    "id": 282,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Firestarter''s Torch"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_283",
+    "id": 283,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Rotmind"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_284",
+    "id": 284,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Ghost Maker"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_285",
+    "id": 285,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Jelkhor''s Blast Knife"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_286",
+    "id": 286,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Fragment of the Enigma"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_287",
+    "id": 287,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Hand of Judgement"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_288",
+    "id": 288,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Harbinger of Stars"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_289",
+    "id": 289,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Bo''s Anarchy"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_290",
+    "id": 290,
+    "rarityTier": "T2",
+    "rerollChance": 0.64,
+    "name": "Apostate''s Sanctuary"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_291",
+    "id": 291,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Pillager''s Gold"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_292",
+    "id": 292,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Apogee of Frozen Light"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_293",
+    "id": 293,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Swaddling of the Erased"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_294",
+    "id": 294,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Font of the Erased"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_295",
+    "id": 295,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cradle of the Erased"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_296",
+    "id": 296,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Advent of the Erased"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_297",
+    "id": 297,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Dedication of an Erased Primalist"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_298",
+    "id": 298,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Knowledge of an Erased Mage"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_299",
+    "id": 299,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Code of an Erased Sentinel"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_300",
+    "id": 300,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Ambitions of an Erased Acolyte"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_301",
+    "id": 301,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Gambit of an Erased Rogue"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_302",
+    "id": 302,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Howl of the West Wind"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_303",
+    "id": 303,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cycle of Putrescence"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_304",
+    "id": 304,
+    "rarityTier": "T3",
+    "rerollChance": 0.4,
+    "name": "Static Shell"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_305",
+    "id": 305,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Reowyn''s Fortress"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_306",
+    "id": 306,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Blood of the Exile"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_307",
+    "id": 307,
+    "rarityTier": "T3",
+    "rerollChance": 0.3,
+    "name": "Crest of Unity"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_308",
+    "id": 308,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Abacus Rod"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_309",
+    "id": 309,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Elecoe''s Abandon"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_310",
+    "id": 310,
+    "rarityTier": "T1",
+    "rerollChance": 0.8,
+    "name": "Wrongwarp"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_311",
+    "id": 311,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Transcriber''s Graver"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_312",
+    "id": 312,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Box of Hydrae"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_313",
+    "id": 313,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Fundamental Criterion"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_314",
+    "id": 314,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cleaver Solution"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_315",
+    "id": 315,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Dragorath''s Claw"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_316",
+    "id": 316,
+    "rarityTier": "T3",
+    "rerollChance": 0.4,
+    "name": "Apex of Thought"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_317",
+    "id": 317,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Frey''s Retreat"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_318",
+    "id": 318,
+    "rarityTier": "T2",
+    "rerollChance": 0.72,
+    "name": "The Shattered Cycle"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_319",
+    "id": 319,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Merophage"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_320",
+    "id": 320,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Sierpin''s Fractal Tree"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_321",
+    "id": 321,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Mad Alchemist''s Ladle"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_322",
+    "id": 322,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Cuckoo"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_323",
+    "id": 323,
+    "rarityTier": "T2",
+    "rerollChance": 0.5,
+    "name": "Wheel of Torment"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_324",
+    "id": 324,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Unvar''s Rise"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_325",
+    "id": 325,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Unvar''s Hegemony"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_326",
+    "id": 326,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Unvar''s Exile"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_327",
+    "id": 327,
+    "rarityTier": "T2",
+    "rerollChance": 0.7,
+    "name": "Communion of the Erased"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_328",
+    "id": 328,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Stygian Coal"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_329",
+    "id": 329,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Sigeon''s Reprisal"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_330",
+    "id": 330,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Spine of Malatros"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_331",
+    "id": 331,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Vial of Volatile Ice"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_332",
+    "id": 332,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "Blood Roost"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_333",
+    "id": 333,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Falcon Fists"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_334",
+    "id": 334,
+    "rarityTier": "T4",
+    "rerollChance": 0.2,
+    "name": "Talons of Valor"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_335",
+    "id": 335,
+    "rarityTier": "T3",
+    "rerollChance": 0.35,
+    "name": "Wraithlord''s Harbour"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_336",
+    "id": 336,
+    "rarityTier": "T1",
+    "rerollChance": 0.8,
+    "name": "Naal''s Tooth"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_337",
+    "id": 337,
+    "rarityTier": "T1",
+    "rerollChance": 0.8,
+    "name": "Razorfall"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_338",
+    "id": 338,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "Sword Catcher"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_339",
+    "id": 339,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Black Blade of Chaos"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_340",
+    "id": 340,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Orian''s Sun Seal"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_341",
+    "id": 341,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cruelty"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_342",
+    "id": 342,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "Traitor''s Tongue"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_343",
+    "id": 343,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Egg of the Forgotten"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_344",
+    "id": 344,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Harbinger''s Needle"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_345",
+    "id": 345,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Bane of Winter"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_346",
+    "id": 346,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Palarus''s Sacred Light"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_347",
+    "id": 347,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "The Inevitable"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_348",
+    "id": 348,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Phantom Grip"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_349",
+    "id": 349,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Yrun''s Penance"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_350",
+    "id": 350,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Flight of Quetzeri"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_351",
+    "id": 351,
+    "rarityTier": "T3",
+    "rerollChance": 0.3,
+    "name": "Triboelectra"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_352",
+    "id": 352,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Plague Dragon''s Tongue"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_353",
+    "id": 353,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Nihilis"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_354",
+    "id": 354,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Wall of Nothing"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_355",
+    "id": 355,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Aberroth''s Command"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_356",
+    "id": 356,
+    "rarityTier": "T2",
+    "rerollChance": 0.6,
+    "name": "Stealth"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_357",
+    "id": 357,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Seed of Ekkidrasil"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_358",
+    "id": 358,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Null Portent"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_359",
+    "id": 359,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Fingers of the Phantom Mire"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_360",
+    "id": 360,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Carcinization of Momentum"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_361",
+    "id": 361,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Phase Point"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_362",
+    "id": 362,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Grim Constitution"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_363",
+    "id": 363,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Monument of Protection"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_364",
+    "id": 364,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Event Horizon"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_365",
+    "id": 365,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "World Splitter"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_366",
+    "id": 366,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Flames of Midnight"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_367",
+    "id": 367,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Celestial Doom"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_368",
+    "id": 368,
+    "rarityTier": "T3",
+    "rerollChance": 0.3,
+    "name": "Mana Guide"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_369",
+    "id": 369,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Tolmat''s Incorrect History of Eterra"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_370",
+    "id": 370,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Mantle of the Pale Ox"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_371",
+    "id": 371,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Phalanx"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_372",
+    "id": 372,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Grasp of the Blood Mage"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_373",
+    "id": 373,
+    "rarityTier": "T4",
+    "rerollChance": 0.2,
+    "name": "Ravager''s Dart"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_374",
+    "id": 374,
+    "rarityTier": "T3",
+    "rerollChance": 0.4,
+    "name": "Pearls of the Swine"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_375",
+    "id": 375,
+    "rarityTier": "T3",
+    "rerollChance": 0.4,
+    "name": "Pearls of the Swine"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_376",
+    "id": 376,
+    "rarityTier": "T3",
+    "rerollChance": 0.4,
+    "name": "Pearls of the Swine"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_377",
+    "id": 377,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Gordian Prism"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_378",
+    "id": 378,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Crystalwind"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_379",
+    "id": 379,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Short Sword"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_380",
+    "id": 380,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Cleaver"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_381",
+    "id": 381,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Club"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_382",
+    "id": 382,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Great Sword"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_383",
+    "id": 383,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Great Axe"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_384",
+    "id": 384,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Great Mace"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_385",
+    "id": 385,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Spear"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_386",
+    "id": 386,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Staff"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_387",
+    "id": 387,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Cuirass"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_388",
+    "id": 388,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Dagger"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_389",
+    "id": 389,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Sceptre"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_390",
+    "id": 390,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Wand"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_391",
+    "id": 391,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Bow"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_392",
+    "id": 392,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Quiver"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_393",
+    "id": 393,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Shield"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_394",
+    "id": 394,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Catalyst"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_395",
+    "id": 395,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Relic"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_396",
+    "id": 396,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Ring"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_397",
+    "id": 397,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Amulet"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_398",
+    "id": 398,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Gloves"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_399",
+    "id": 399,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Belt"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_400",
+    "id": 400,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Boots"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_401",
+    "id": 401,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Cocooned Helmet"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_402",
+    "id": 402,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Elecoe''s Innovation"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_403",
+    "id": 403,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Soul of the Mountain"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_404",
+    "id": 404,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Orian''s Descent"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_405",
+    "id": 405,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Orb Weaver''s Fang"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_406",
+    "id": 406,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Nest of Nightmares"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_407",
+    "id": 407,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Essence Weaver"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_408",
+    "id": 408,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Weaver''s Gift"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_409",
+    "id": 409,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Inheritance of the Erased"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_410",
+    "id": 410,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Unearthed Memories"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_411",
+    "id": 411,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Countenance of Majasa"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_412",
+    "id": 412,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Dominance of the Tundra"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_413",
+    "id": 413,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Shattered Worlds"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_414",
+    "id": 414,
+    "rarityTier": "T4",
+    "rerollChance": 0.2,
+    "name": "Downfall of the Righteous"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_415",
+    "id": 415,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Immortal Vise"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_416",
+    "id": 416,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Brewmaster''s Buckle"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_417",
+    "id": 417,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Clotho''s Needle"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_418",
+    "id": 418,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Scissor of Atropos"
+  },
+  {
+    "displayNameKey": "Item_Names.Unique_Name_419",
+    "id": 419,
+    "rarityTier": "T4",
+    "rerollChance": 0,
+    "name": "Blight of Lachesis"
+  }
+]
