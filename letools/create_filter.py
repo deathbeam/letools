@@ -47,7 +47,7 @@ def create_filter(items, output_filename):
     min_ww_element.set("{http://www.w3.org/2001/XMLSchema-instance}nil", "true")
 
     max_ww_element = ET.SubElement(rarity_condition, "maxWeaversWill")
-    max_ww_element.text = "15"
+    max_ww_element.text = "14"
 
     # Add UniquesCondition
     condition_element = ET.SubElement(conditions_element, "Condition")
