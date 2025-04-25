@@ -1,415 +1,415 @@
-displayNameKey,id,rarityTier,rerollChance,name
-Item_Names.Unique_Name_0,0,T4,0.0,Calamity
-Item_Names.Unique_Name_1,1,T4,0.0,Fractured Crown
-Item_Names.Unique_Name_2,2,T4,0.0,Snowblind
-Item_Names.Unique_Name_3,3,T4,0.0,Artor''s Legacy
-Item_Names.Unique_Name_4,4,T4,0.0,Decayed Skull
-Item_Names.Unique_Name_5,5,T4,0.0,Isadora''s Revenge
-Item_Names.Unique_Name_6,6,T4,0.0,Boneclamor Barbute
-Item_Names.Unique_Name_7,7,T4,0.0,The Kestrel
-Item_Names.Unique_Name_8,8,T4,0.0,Doublet of Onos Tull
-Item_Names.Unique_Name_9,9,T4,0.0,Prism Wraps
-Item_Names.Unique_Name_10,10,T4,0.0,Urzil''s Pride
-Item_Names.Unique_Name_11,11,T2,0.5,Exsanguinous
-Item_Names.Unique_Name_12,12,T4,0.0,Yrun''s Wisdom
-Item_Names.Unique_Name_13,13,T4,0.0,Titan Heart
-Item_Names.Unique_Name_14,14,T4,0.0,Valeroot
-Item_Names.Unique_Name_15,15,T4,0.0,Vipertail
-Item_Names.Unique_Name_16,16,T4,0.0,Isadora''s Tomb Binding
-Item_Names.Unique_Name_17,17,T4,0.0,Ward Trail
-Item_Names.Unique_Name_18,18,T4,0.0,Chains of Uleros
-Item_Names.Unique_Name_19,19,T4,0.0,Mourningfrost
-Item_Names.Unique_Name_20,20,T4,0.0,Stormtide
-Item_Names.Unique_Name_21,21,T4,0.0,Eterra''s Path
-Item_Names.Unique_Name_22,22,T4,0.0,Keeper''s Gloves
-Item_Names.Unique_Name_23,23,T4,0.0,Riverbend Grasp
-Item_Names.Unique_Name_24,24,T4,0.0,Fighting Chance
-Item_Names.Unique_Name_25,25,T4,0.0,Boulderfists
-Item_Names.Unique_Name_26,26,T4,0.0,Isadora''s Gravechill
-Item_Names.Unique_Name_27,27,T4,0.0,Wing Guards
-Item_Names.Unique_Name_28,28,T4,0.0,Beast King
-Item_Names.Unique_Name_29,29,T4,0.0,Taste of Blood
-Item_Names.Unique_Name_30,30,T2,0.5,Undisputed
-Item_Names.Unique_Name_31,31,T4,0.0,Tempest Maw
-Item_Names.Unique_Name_32,32,T4,0.0,Frozen Ire
-Item_Names.Unique_Name_33,33,T4,0.0,Culnivar''s Claim
-Item_Names.Unique_Name_34,34,T4,0.0,Humming Bee
-Item_Names.Unique_Name_35,35,T2,0.7,Eye of Reen
-Item_Names.Unique_Name_36,36,T4,0.0,Rainbow Edge
-Item_Names.Unique_Name_37,37,T3,0.25,Cinder Song
-Item_Names.Unique_Name_38,38,T2,0.5,Alchemist''s Ladle
-Item_Names.Unique_Name_39,39,T4,0.0,Reach of the Grave
-Item_Names.Unique_Name_40,40,T4,0.0,Bone Harvester
-Item_Names.Unique_Name_41,41,T4,0.0,Hammer of Lorent
-Item_Names.Unique_Name_42,42,T4,0.0,Torch Of The Pontifex
-Item_Names.Unique_Name_43,43,T4,0.0,Storm Breaker
-Item_Names.Unique_Name_44,44,T4,0.0,Draalsting
-Item_Names.Unique_Name_45,45,T1,0.8,Morditas'' Reach
-Item_Names.Unique_Name_47,47,T4,0.0,The Last Laugh
-Item_Names.Unique_Name_48,48,T4,0.0,Volcanus
-Item_Names.Unique_Name_49,49,T4,0.0,Dreamthorn
-Item_Names.Unique_Name_50,50,T4,0.0,The Slab
-Item_Names.Unique_Name_51,51,T4,0.0,Close Call
-Item_Names.Unique_Name_52,52,T4,0.0,Soul Bastion
-Item_Names.Unique_Name_53,53,T1,0.8,Rahyeh''s Light
-Item_Names.Unique_Name_54,54,T4,0.0,Strong Mind
-Item_Names.Unique_Name_55,55,T4,0.0,Bleeding Heart
-Item_Names.Unique_Name_56,56,T4,0.0,Chimaera''s Essence
-Item_Names.Unique_Name_57,57,T4,0.0,The Invoker''s Frozen Heart
-Item_Names.Unique_Name_58,58,T4,0.0,The Claw
-Item_Names.Unique_Name_59,59,T4,0.0,Death Rattle
-Item_Names.Unique_Name_60,60,T4,0.0,The Fang
-Item_Names.Unique_Name_61,61,T0,0.97,Orian''s Eye
-Item_Names.Unique_Name_62,62,T4,0.0,Ring of the Third Eye
-Item_Names.Unique_Name_63,63,T4,0.0,The Invoker''s Scorching Grasp
-Item_Names.Unique_Name_64,64,T4,0.0,The Invoker''s Static Touch
-Item_Names.Unique_Name_65,65,T4,0.0,Arboreal Circuit
-Item_Names.Unique_Name_66,66,T4,0.2,Hollow Finger
-Item_Names.Unique_Name_67,67,T4,0.0,Tome of Elements
-Item_Names.Unique_Name_68,68,T4,0.0,Grimoire of Necrotic Elixirs
-Item_Names.Unique_Name_70,70,T4,0.0,Soulfire
-Item_Names.Unique_Name_71,71,T2,0.6,Valdyr''s Chalice
-Item_Names.Unique_Name_72,72,T4,0.0,Orchirian''s Petals
-Item_Names.Unique_Name_73,73,T2,0.5,Plague Bearer''s Staff
-Item_Names.Unique_Name_74,74,T4,0.0,Ignivar''s Head
-Item_Names.Unique_Name_75,75,T4,0.0,The Scavenger
-Item_Names.Unique_Name_76,76,T2,0.5,Liath''s Signet
-Item_Names.Unique_Name_80,80,T2,0.5,Bloodgeon
-Item_Names.Unique_Name_81,81,T4,0.0,Ucenui''s Sphere
-Item_Names.Unique_Name_82,82,T4,0.0,Arek''s Bones
-Item_Names.Unique_Name_83,83,T4,0.0,Maehlin''s Hubris
-Item_Names.Unique_Name_84,84,T2,0.7,Heirloom of the Last Nomad
-Item_Names.Unique_Name_85,85,T4,0.0,Sunforged Hammer
-Item_Names.Unique_Name_86,86,T4,0.2,Sunforged Cuirass
-Item_Names.Unique_Name_87,87,T2,0.5,Sunforged Greathelm
-Item_Names.Unique_Name_88,88,T2,0.7,Blade of the Forgotten Knight
-Item_Names.Unique_Name_89,89,T4,0.0,Defiance of the Forgotten Knight
-Item_Names.Unique_Name_90,90,T2,0.7,Locket of the Forgotten Knight
-Item_Names.Unique_Name_91,91,T2,0.7,Fiery Dragon Shoes
-Item_Names.Unique_Name_92,92,T1,0.9,Jungle Queen''s Chaps of Holding
-Item_Names.Unique_Name_93,93,T4,0.2,Kermode''s Cage
-Item_Names.Unique_Name_94,94,T4,0.0,The Last Bear''s Fury
-Item_Names.Unique_Name_95,95,T4,0.0,The Last Bear''s Scorn
-Item_Names.Unique_Name_96,96,T4,0.0,The Last Bear''s Lament
-Item_Names.Unique_Name_97,97,T4,0.2,Halvar''s Pledge
-Item_Names.Unique_Name_98,98,T4,0.0,Halvar''s Stand
-Item_Names.Unique_Name_99,99,T4,0.0,Last Gift of the Mountain
-Item_Names.Unique_Name_100,100,T4,0.0,Pebbles'' Femur
-Item_Names.Unique_Name_101,101,T4,0.0,Pebbles'' Collar
-Item_Names.Unique_Name_102,102,T4,0.0,Pebbles'' Bitemarked Sash
-Item_Names.Unique_Name_103,103,T4,0.0,Legacy of the Quiet Forest
-Item_Names.Unique_Name_104,104,T2,0.6,Suloron''s Step
-Item_Names.Unique_Name_105,105,T4,0.0,The Ashen Crown
-Item_Names.Unique_Name_106,106,T4,0.0,Shroud of Obscurity
-Item_Names.Unique_Name_107,107,T4,0.0,Murama''s Hilt
-Item_Names.Unique_Name_108,108,T2,0.6,Melvern''s Writ
-Item_Names.Unique_Name_109,109,T4,0.0,Shard of the Shattered Lance
-Item_Names.Unique_Name_110,110,T4,0.0,Fragments of the Shattered Lance
-Item_Names.Unique_Name_111,111,T4,0.0,Woven Flesh
-Item_Names.Unique_Name_112,112,T4,0.0,Strands of Souls
-Item_Names.Unique_Name_113,113,T4,0.0,Ribbons of Blood
-Item_Names.Unique_Name_114,114,T4,0.0,Frozen Eyes of Formosus
-Item_Names.Unique_Name_115,115,T4,0.0,Last Steps of the Living
-Item_Names.Unique_Name_116,116,T4,0.0,Atrophy
-Item_Names.Unique_Name_117,117,T4,0.0,Dark Shroud of Cinders
-Item_Names.Unique_Name_118,118,T4,0.0,The Confluence of Fate
-Item_Names.Unique_Name_119,119,T4,0.0,Bulwark of the Last Abyss
-Item_Names.Unique_Name_120,120,T4,0.0,Trident of the Last Abyss
-Item_Names.Unique_Name_121,121,T4,0.0,Coral Aegis
-Item_Names.Unique_Name_122,122,T4,0.0,Alluvion
-Item_Names.Unique_Name_123,123,T4,0.0,Symbol of Demise
-Item_Names.Unique_Name_124,124,T4,0.0,Dragonflame Edict
-Item_Names.Unique_Name_125,125,T1,0.85,Oceareon
-Item_Names.Unique_Name_126,126,T2,0.7,Mortality''s Grasp
-Item_Names.Unique_Name_127,127,T2,0.7,Boardman''s Plank
-Item_Names.Unique_Name_128,128,T2,0.7,Boardman''s Fallacy
-Item_Names.Unique_Name_129,129,T2,0.7,Boardman''s Legacy
-Item_Names.Unique_Name_130,130,T4,0.0,Gambler''s Fallacy
-Item_Names.Unique_Name_131,131,T4,0.0,Avarice
-Item_Names.Unique_Name_132,132,T3,0.3,Transient Rest
-Item_Names.Unique_Name_133,133,T3,0.3,Xithara''s Conundrum
-Item_Names.Unique_Name_134,134,T4,0.0,Li''raka''s Claws
-Item_Names.Unique_Name_135,135,T4,0.0,Quicksilver Coil
-Item_Names.Unique_Name_136,136,T2,0.5,Smoke Weaver
-Item_Names.Unique_Name_137,137,T4,0.0,Uethrin''s Stand
-Item_Names.Unique_Name_138,138,T4,0.0,Zerrick''s Guile
-Item_Names.Unique_Name_139,139,T2,0.5,Zerrick''s Greed
-Item_Names.Unique_Name_140,140,T4,0.0,Zerrick''s Ambition
-Item_Names.Unique_Name_141,141,T4,0.0,Hell Reach
-Item_Names.Unique_Name_142,142,T4,0.0,Drelkor''s Compass
-Item_Names.Unique_Name_143,143,T4,0.0,Gladiator''s Oath
-Item_Names.Unique_Name_144,144,T4,0.0,Acidfletch
-Item_Names.Unique_Name_145,145,T2,0.5,Life''s Journey
-Item_Names.Unique_Name_146,146,T4,0.0,Troaka''s Teeth
-Item_Names.Unique_Name_147,147,T2,0.65,Raindance
-Item_Names.Unique_Name_148,148,T4,0.0,Arrowguard
-Item_Names.Unique_Name_149,149,T1,0.9,Omnividence
-Item_Names.Unique_Name_150,150,T4,0.0,Sunwreath
-Item_Names.Unique_Name_151,151,T4,0.0,Eulogy of Blood
-Item_Names.Unique_Name_152,152,T4,0.0,Anchor of Oblivion
-Item_Names.Unique_Name_153,153,T4,0.0,Wings of Argentus
-Item_Names.Unique_Name_154,154,T4,0.0,Eye of Storms
-Item_Names.Unique_Name_155,155,T4,0.0,Horns of Uhkeiros
-Item_Names.Unique_Name_156,156,T4,0.0,Gaspar''s Will
-Item_Names.Unique_Name_157,157,T4,0.0,Gaspar''s Acuity
-Item_Names.Unique_Name_158,158,T4,0.0,Gaspar''s Insight
-Item_Names.Unique_Name_159,159,T4,0.0,Reign of Winter
-Item_Names.Unique_Name_160,160,T4,0.0,Call of the Tundra
-Item_Names.Unique_Name_161,161,T4,0.0,Faith of the Frozen
-Item_Names.Unique_Name_162,162,T4,0.0,Bhuldar''s Wrath
-Item_Names.Unique_Name_163,163,T4,0.0,Herkir''s Vessel
-Item_Names.Unique_Name_164,164,T4,0.0,Logi''s Hunger
-Item_Names.Unique_Name_165,165,T4,0.0,Serpent''s Milk
-Item_Names.Unique_Name_166,166,T4,0.0,Moenia Mentis
-Item_Names.Unique_Name_167,167,T1,0.8,Ravens'' Rise
-Item_Names.Unique_Name_168,168,T2,0.5,Flight of the First
-Item_Names.Unique_Name_169,169,T1,0.75,Aergon''s Refuge
-Item_Names.Unique_Name_170,170,T4,0.0,Sinathia''s Dying Breath
-Item_Names.Unique_Name_171,171,T4,0.0,Sinathia''s Resurrection
-Item_Names.Unique_Name_172,172,T2,0.7,Herald of the Scurry
-Item_Names.Unique_Name_173,173,T4,0.0,Ruby Fang Cleaver
-Item_Names.Unique_Name_174,174,T4,0.0,Ruby Fang Aegis
-Item_Names.Unique_Name_175,175,T4,0.0,Omnis
-Item_Names.Unique_Name_176,176,T1,0.8,Aurora''s Time Glass
-Item_Names.Unique_Name_177,177,T4,0.0,Siphon of Anguish
-Item_Names.Unique_Name_178,178,T4,0.0,Stymied Fate
-Item_Names.Unique_Name_179,179,T4,0.0,Apathy''s Maw
-Item_Names.Unique_Name_180,180,T4,0.0,Shattered Chains
-Item_Names.Unique_Name_181,181,T3,0.3,Marina''s Lost Soul
-Item_Names.Unique_Name_182,182,T4,0.0,Eye of Orexia
-Item_Names.Unique_Name_183,183,T2,0.7,Leviathan Carver
-Item_Names.Unique_Name_184,184,T4,0.0,Lethal Concentration
-Item_Names.Unique_Name_185,185,T1,0.75,Vilatria''s Storm Crown
-Item_Names.Unique_Name_186,186,T4,0.0,Vilatria''s Downfall
-Item_Names.Unique_Name_187,187,T1,0.85,Salt the Wound
-Item_Names.Unique_Name_188,188,T4,0.0,Azurral''s Fury
-Item_Names.Unique_Name_189,189,T4,0.0,Sanguine Hoard
-Item_Names.Unique_Name_190,190,T4,0.0,Jasper''s Searing Pride
-Item_Names.Unique_Name_191,191,T4,0.0,Devotion
-Item_Names.Unique_Name_192,192,T4,0.0,Fulgurite Shard
-Item_Names.Unique_Name_193,193,T4,0.0,Corsair''s Boarding Shield
-Item_Names.Unique_Name_194,194,T4,0.0,Corsair''s Blood Cowl
-Item_Names.Unique_Name_195,195,T2,0.7,Scales of Eterra
-Item_Names.Unique_Name_196,196,T2,0.7,Scales of Eterra
-Item_Names.Unique_Name_197,197,T2,0.7,Scales of Eterra
-Item_Names.Unique_Name_198,198,T1,0.9,Bastion of Honour
-Item_Names.Unique_Name_199,199,T4,0.0,Rule of the Simoon
-Item_Names.Unique_Name_200,200,T4,0.0,Tongue of the Aberrant Seer
-Item_Names.Unique_Name_201,201,T4,0.0,Battlemage''s Endeavour
-Item_Names.Unique_Name_202,202,T4,0.0,Stormhide Paws
-Item_Names.Unique_Name_203,203,T4,0.0,Darkstride
-Item_Names.Unique_Name_204,204,T4,0.0,Thorn Slinger
-Item_Names.Unique_Name_205,205,T4,0.0,Curse of Perseverance
-Item_Names.Unique_Name_206,206,T4,0.0,Lessons of the Metropolis
-Item_Names.Unique_Name_207,207,T4,0.0,Kelthan Blasting Agent
-Item_Names.Unique_Name_208,208,T0,0.98,Ravenous Void
-Item_Names.Unique_Name_209,209,T4,0.0,Aberrant Call
-Item_Names.Unique_Name_210,210,T4,0.0,Flayer''s Pride
-Item_Names.Unique_Name_211,211,T4,0.0,Throne of Ambition
-Item_Names.Unique_Name_212,212,T4,0.0,Eternal Eclipse
-Item_Names.Unique_Name_213,213,T4,0.0,Frostbite Shackles
-Item_Names.Unique_Name_214,214,T4,0.0,Stormcarved Testament
-Item_Names.Unique_Name_215,215,T4,0.0,Nightbringer
-Item_Names.Unique_Name_216,216,T4,0.0,Twisted Heart of Uhkeiros
-Item_Names.Unique_Name_217,217,T4,0.0,Sacrificial Embrace
-Item_Names.Unique_Name_218,218,T4,0.0,Yulia''s Path
-Item_Names.Unique_Name_219,219,T4,0.0,Trinity of Flames
-Item_Names.Unique_Name_220,220,T1,0.85,Death''s Embrace
-Item_Names.Unique_Name_221,221,T1,0.9,Paranoia
-Item_Names.Unique_Name_222,222,T2,0.6,Prismatic Gaze
-Item_Names.Unique_Name_223,223,T4,0.0,Chronostasis
-Item_Names.Unique_Name_224,224,T2,0.6,The Judicator
-Item_Names.Unique_Name_225,225,T4,0.0,Aurelis
-Item_Names.Unique_Name_226,226,T4,0.0,Tu''rani''s Bident
-Item_Names.Unique_Name_227,227,T4,0.0,Ferebor''s Chisel
-Item_Names.Unique_Name_228,228,T3,0.4,Ferebor''s Persistence
-Item_Names.Unique_Name_229,229,T3,0.4,Roots of Vithrasil
-Item_Names.Unique_Name_230,230,T4,0.0,Usurper''s Mandate
-Item_Names.Unique_Name_231,231,T4,0.0,Longshot
-Item_Names.Unique_Name_232,232,T2,0.7,Hakar''s Phoenix
-Item_Names.Unique_Name_233,233,T4,0.0,Snowdrift
-Item_Names.Unique_Name_234,234,T4,0.0,Hazelroot
-Item_Names.Unique_Name_235,235,T2,0.7,Silvafrond
-Item_Names.Unique_Name_236,236,T4,0.0,Drought''s Release
-Item_Names.Unique_Name_237,237,T4,0.0,Thornshell
-Item_Names.Unique_Name_238,238,T4,0.0,Julra''s Stardial
-Item_Names.Unique_Name_239,239,T4,0.0,Somnia
-Item_Names.Unique_Name_240,240,T4,0.0,Julra''s Obsession
-Item_Names.Unique_Name_241,241,T4,0.0,Vessel of Strife
-Item_Names.Unique_Name_242,242,T2,0.6,Shadow String
-Item_Names.Unique_Name_243,243,T4,0.0,Dragonsong
-Item_Names.Unique_Name_244,244,T4,0.0,Harthenon''s Vow
-Item_Names.Unique_Name_245,245,T4,0.0,Renegade''s Will
-Item_Names.Unique_Name_246,246,T3,0.3,Singularity
-Item_Names.Unique_Name_247,247,T4,0.0,Chronicle of the Damned
-Item_Names.Unique_Name_249,249,T2,0.5,Diothaen''s Bloody Nib
-Item_Names.Unique_Name_250,250,T2,0.5,Torkrefin''s Hunger
-Item_Names.Unique_Name_251,251,T4,0.2,Zeurial''s Hunt
-Item_Names.Unique_Name_252,252,T2,0.5,Pact Severance
-Item_Names.Unique_Name_253,253,T4,0.0,Foot of the Mountain
-Item_Names.Unique_Name_254,254,T4,0.0,Face of the Mountain
-Item_Names.Unique_Name_255,255,T4,0.0,Core of the Mountain
-Item_Names.Unique_Name_256,256,T4,0.0,Peak of the Mountain
-Item_Names.Unique_Name_257,257,T4,0.0,Ashes of Mortality
-Item_Names.Unique_Name_258,258,T4,0.0,Immolator''s Oblation
-Item_Names.Unique_Name_259,259,T4,0.0,Pyre of Affliction
-Item_Names.Unique_Name_260,260,T4,0.0,Lich''s Envy
-Item_Names.Unique_Name_261,261,T4,0.0,Lich''s Scorn
-Item_Names.Unique_Name_262,262,T4,0.0,Penumbra
-Item_Names.Unique_Name_263,263,T4,0.0,Omen of Thunder
-Item_Names.Unique_Name_264,264,T4,0.0,Vaion''s Chariot
-Item_Names.Unique_Name_265,265,T4,0.0,Soul Gambler''s Fallacy
-Item_Names.Unique_Name_266,266,T4,0.0,Burning Avarice
-Item_Names.Unique_Name_267,267,T4,0.0,Ashes of Orchirian
-Item_Names.Unique_Name_268,268,T2,0.6,Bloodkeeper''s Nest
-Item_Names.Unique_Name_269,269,T2,0.5,Scales of Lemniscate
-Item_Names.Unique_Name_270,270,T2,0.6,Hive Mind
-Item_Names.Unique_Name_271,271,T4,0.0,Gathering Fury
-Item_Names.Unique_Name_272,272,T1,0.75,Aaron''s Will
-Item_Names.Unique_Name_273,273,T4,0.0,Lament of the Lost Refuge
-Item_Names.Unique_Name_274,274,T2,0.5,Branch of Hallows
-Item_Names.Unique_Name_275,275,T2,0.5,Unstable Core
-Item_Names.Unique_Name_276,276,T4,0.0,Liath''s Machinations
-Item_Names.Unique_Name_277,277,T0,0.98,Red Ring of Atlaria
-Item_Names.Unique_Name_278,278,T4,0.0,Tears of the Forest
-Item_Names.Unique_Name_279,279,T4,0.0,Shadow Beacon
-Item_Names.Unique_Name_280,280,T4,0.0,Telf''un''s Mirage
-Item_Names.Unique_Name_281,281,T4,0.0,Vortex Pennant
-Item_Names.Unique_Name_282,282,T4,0.0,Firestarter''s Torch
-Item_Names.Unique_Name_283,283,T4,0.0,Rotmind
-Item_Names.Unique_Name_284,284,T4,0.0,The Ghost Maker
-Item_Names.Unique_Name_285,285,T4,0.0,Jelkhor''s Blast Knife
-Item_Names.Unique_Name_286,286,T4,0.0,Fragment of the Enigma
-Item_Names.Unique_Name_287,287,T4,0.0,Hand of Judgement
-Item_Names.Unique_Name_288,288,T4,0.0,Harbinger of Stars
-Item_Names.Unique_Name_289,289,T4,0.0,Bo''s Anarchy
-Item_Names.Unique_Name_290,290,T2,0.64,Apostate''s Sanctuary
-Item_Names.Unique_Name_291,291,T4,0.0,Pillager''s Gold
-Item_Names.Unique_Name_292,292,T4,0.0,Apogee of Frozen Light
-Item_Names.Unique_Name_293,293,T4,0.0,Swaddling of the Erased
-Item_Names.Unique_Name_294,294,T4,0.0,Font of the Erased
-Item_Names.Unique_Name_295,295,T4,0.0,Cradle of the Erased
-Item_Names.Unique_Name_296,296,T4,0.0,Advent of the Erased
-Item_Names.Unique_Name_297,297,T4,0.0,Dedication of an Erased Primalist
-Item_Names.Unique_Name_298,298,T4,0.0,Knowledge of an Erased Mage
-Item_Names.Unique_Name_299,299,T4,0.0,Code of an Erased Sentinel
-Item_Names.Unique_Name_300,300,T4,0.0,Ambitions of an Erased Acolyte
-Item_Names.Unique_Name_301,301,T4,0.0,Gambit of an Erased Rogue
-Item_Names.Unique_Name_302,302,T4,0.0,Howl of the West Wind
-Item_Names.Unique_Name_303,303,T4,0.0,Cycle of Putrescence
-Item_Names.Unique_Name_304,304,T3,0.4,Static Shell
-Item_Names.Unique_Name_305,305,T4,0.0,Reowyn''s Fortress
-Item_Names.Unique_Name_306,306,T2,0.5,Blood of the Exile
-Item_Names.Unique_Name_307,307,T3,0.3,Crest of Unity
-Item_Names.Unique_Name_308,308,T4,0.0,Abacus Rod
-Item_Names.Unique_Name_309,309,T4,0.0,Elecoe''s Abandon
-Item_Names.Unique_Name_310,310,T1,0.8,Wrongwarp
-Item_Names.Unique_Name_311,311,T4,0.0,Transcriber''s Graver
-Item_Names.Unique_Name_312,312,T4,0.0,Box of Hydrae
-Item_Names.Unique_Name_313,313,T4,0.0,Fundamental Criterion
-Item_Names.Unique_Name_314,314,T4,0.0,Cleaver Solution
-Item_Names.Unique_Name_315,315,T4,0.0,Dragorath''s Claw
-Item_Names.Unique_Name_316,316,T3,0.4,Apex of Thought
-Item_Names.Unique_Name_317,317,T4,0.0,Frey''s Retreat
-Item_Names.Unique_Name_318,318,T2,0.72,The Shattered Cycle
-Item_Names.Unique_Name_319,319,T4,0.0,Merophage
-Item_Names.Unique_Name_320,320,T4,0.0,Sierpin''s Fractal Tree
-Item_Names.Unique_Name_321,321,T4,0.0,Mad Alchemist''s Ladle
-Item_Names.Unique_Name_322,322,T4,0.0,The Cuckoo
-Item_Names.Unique_Name_323,323,T2,0.5,Wheel of Torment
-Item_Names.Unique_Name_324,324,T4,0.0,Unvar''s Rise
-Item_Names.Unique_Name_325,325,T4,0.0,Unvar''s Hegemony
-Item_Names.Unique_Name_326,326,T4,0.0,Unvar''s Exile
-Item_Names.Unique_Name_327,327,T2,0.7,Communion of the Erased
-Item_Names.Unique_Name_328,328,T4,0.0,Stygian Coal
-Item_Names.Unique_Name_329,329,T4,0.0,Sigeon''s Reprisal
-Item_Names.Unique_Name_330,330,T4,0.0,Spine of Malatros
-Item_Names.Unique_Name_331,331,T4,0.0,Vial of Volatile Ice
-Item_Names.Unique_Name_332,332,T2,0.6,Blood Roost
-Item_Names.Unique_Name_333,333,T4,0.0,Falcon Fists
-Item_Names.Unique_Name_334,334,T4,0.2,Talons of Valor
-Item_Names.Unique_Name_335,335,T3,0.35,Wraithlord''s Harbour
-Item_Names.Unique_Name_336,336,T1,0.8,Naal''s Tooth
-Item_Names.Unique_Name_337,337,T1,0.8,Razorfall
-Item_Names.Unique_Name_338,338,T2,0.6,Sword Catcher
-Item_Names.Unique_Name_339,339,T4,0.0,Black Blade of Chaos
-Item_Names.Unique_Name_340,340,T4,0.0,Orian''s Sun Seal
-Item_Names.Unique_Name_341,341,T4,0.0,Cruelty
-Item_Names.Unique_Name_342,342,T2,0.6,Traitor''s Tongue
-Item_Names.Unique_Name_343,343,T4,0.0,Egg of the Forgotten
-Item_Names.Unique_Name_344,344,T4,0.0,Harbinger''s Needle
-Item_Names.Unique_Name_345,345,T4,0.0,Bane of Winter
-Item_Names.Unique_Name_346,346,T4,0.0,Palarus''s Sacred Light
-Item_Names.Unique_Name_347,347,T4,0.0,The Inevitable
-Item_Names.Unique_Name_348,348,T4,0.0,Phantom Grip
-Item_Names.Unique_Name_349,349,T4,0.0,Yrun''s Penance
-Item_Names.Unique_Name_350,350,T4,0.0,Flight of Quetzeri
-Item_Names.Unique_Name_351,351,T3,0.3,Triboelectra
-Item_Names.Unique_Name_352,352,T4,0.0,Plague Dragon''s Tongue
-Item_Names.Unique_Name_353,353,T4,0.0,Nihilis
-Item_Names.Unique_Name_354,354,T4,0.0,Wall of Nothing
-Item_Names.Unique_Name_355,355,T4,0.0,Aberroth''s Command
-Item_Names.Unique_Name_356,356,T2,0.6,Stealth
-Item_Names.Unique_Name_357,357,T4,0.0,Seed of Ekkidrasil
-Item_Names.Unique_Name_358,358,T4,0.0,Null Portent
-Item_Names.Unique_Name_359,359,T4,0.0,Fingers of the Phantom Mire
-Item_Names.Unique_Name_360,360,T4,0.0,Carcinization of Momentum
-Item_Names.Unique_Name_361,361,T4,0.0,Phase Point
-Item_Names.Unique_Name_362,362,T4,0.0,Grim Constitution
-Item_Names.Unique_Name_363,363,T4,0.0,Monument of Protection
-Item_Names.Unique_Name_364,364,T4,0.0,Event Horizon
-Item_Names.Unique_Name_365,365,T4,0.0,World Splitter
-Item_Names.Unique_Name_366,366,T4,0.0,Flames of Midnight
-Item_Names.Unique_Name_367,367,T4,0.0,Celestial Doom
-Item_Names.Unique_Name_368,368,T3,0.3,Mana Guide
-Item_Names.Unique_Name_369,369,T4,0.0,Tolmat''s Incorrect History of Eterra
-Item_Names.Unique_Name_370,370,T4,0.0,Mantle of the Pale Ox
-Item_Names.Unique_Name_371,371,T4,0.0,Phalanx
-Item_Names.Unique_Name_372,372,T4,0.0,Grasp of the Blood Mage
-Item_Names.Unique_Name_373,373,T4,0.2,Ravager''s Dart
-Item_Names.Unique_Name_374,374,T3,0.4,Pearls of the Swine
-Item_Names.Unique_Name_375,375,T3,0.4,Pearls of the Swine
-Item_Names.Unique_Name_376,376,T3,0.4,Pearls of the Swine
-Item_Names.Unique_Name_377,377,T4,0.0,Gordian Prism
-Item_Names.Unique_Name_378,378,T4,0.0,Crystalwind
-Item_Names.Unique_Name_379,379,T4,0.0,Cocooned Short Sword
-Item_Names.Unique_Name_380,380,T4,0.0,Cocooned Cleaver
-Item_Names.Unique_Name_381,381,T4,0.0,Cocooned Club
-Item_Names.Unique_Name_382,382,T4,0.0,Cocooned Great Sword
-Item_Names.Unique_Name_383,383,T4,0.0,Cocooned Great Axe
-Item_Names.Unique_Name_384,384,T4,0.0,Cocooned Great Mace
-Item_Names.Unique_Name_385,385,T4,0.0,Cocooned Spear
-Item_Names.Unique_Name_386,386,T4,0.0,Cocooned Staff
-Item_Names.Unique_Name_387,387,T4,0.0,Cocooned Cuirass
-Item_Names.Unique_Name_388,388,T4,0.0,Cocooned Dagger
-Item_Names.Unique_Name_389,389,T4,0.0,Cocooned Sceptre
-Item_Names.Unique_Name_390,390,T4,0.0,Cocooned Wand
-Item_Names.Unique_Name_391,391,T4,0.0,Cocooned Bow
-Item_Names.Unique_Name_392,392,T4,0.0,Cocooned Quiver
-Item_Names.Unique_Name_393,393,T4,0.0,Cocooned Shield
-Item_Names.Unique_Name_394,394,T4,0.0,Cocooned Catalyst
-Item_Names.Unique_Name_395,395,T4,0.0,Cocooned Relic
-Item_Names.Unique_Name_396,396,T4,0.0,Cocooned Ring
-Item_Names.Unique_Name_397,397,T4,0.0,Cocooned Amulet
-Item_Names.Unique_Name_398,398,T4,0.0,Cocooned Gloves
-Item_Names.Unique_Name_399,399,T4,0.0,Cocooned Belt
-Item_Names.Unique_Name_400,400,T4,0.0,Cocooned Boots
-Item_Names.Unique_Name_401,401,T4,0.0,Cocooned Helmet
-Item_Names.Unique_Name_402,402,T4,0.0,Elecoe''s Innovation
-Item_Names.Unique_Name_403,403,T4,0.0,Soul of the Mountain
-Item_Names.Unique_Name_404,404,T4,0.0,Orian''s Descent
-Item_Names.Unique_Name_405,405,T4,0.0,Orb Weaver''s Fang
-Item_Names.Unique_Name_406,406,T4,0.0,Nest of Nightmares
-Item_Names.Unique_Name_407,407,T4,0.0,Essence Weaver
-Item_Names.Unique_Name_408,408,T4,0.0,Weaver''s Gift
-Item_Names.Unique_Name_409,409,T4,0.0,Inheritance of the Erased
-Item_Names.Unique_Name_410,410,T4,0.0,Unearthed Memories
-Item_Names.Unique_Name_411,411,T4,0.0,Countenance of Majasa
-Item_Names.Unique_Name_412,412,T4,0.0,Dominance of the Tundra
-Item_Names.Unique_Name_413,413,T4,0.0,Shattered Worlds
-Item_Names.Unique_Name_414,414,T4,0.2,Downfall of the Righteous
-Item_Names.Unique_Name_415,415,T4,0.0,Immortal Vise
-Item_Names.Unique_Name_416,416,T4,0.0,Brewmaster''s Buckle
-Item_Names.Unique_Name_417,417,T4,0.0,Clotho''s Needle
-Item_Names.Unique_Name_418,418,T4,0.0,Scissor of Atropos
-Item_Names.Unique_Name_419,419,T4,0.0,Blight of Lachesis
+canDropRandomly,displayNameKey,id,isCocoonedItem,isPrimordialItem,isSetItem,rarityTier,rerollChance,unknownDrop,name
+True,Item_Names.Unique_Name_0,0,False,False,False,T4,0.0,False,Calamity
+False,Item_Names.Unique_Name_1,1,False,False,False,T4,0.0,True,Fractured Crown
+True,Item_Names.Unique_Name_2,2,False,False,False,T4,0.0,False,Snowblind
+True,Item_Names.Unique_Name_3,3,False,False,False,T4,0.0,False,Artor''s Legacy
+True,Item_Names.Unique_Name_4,4,False,False,False,T4,0.0,False,Decayed Skull
+True,Item_Names.Unique_Name_5,5,False,False,True,T4,0.0,False,Isadora''s Revenge
+True,Item_Names.Unique_Name_6,6,False,False,False,T4,0.0,False,Boneclamor Barbute
+True,Item_Names.Unique_Name_7,7,False,False,False,T4,0.0,False,The Kestrel
+True,Item_Names.Unique_Name_8,8,False,False,False,T4,0.0,False,Doublet of Onos Tull
+True,Item_Names.Unique_Name_9,9,False,False,False,T4,0.0,False,Prism Wraps
+True,Item_Names.Unique_Name_10,10,False,False,False,T4,0.0,False,Urzil''s Pride
+True,Item_Names.Unique_Name_11,11,False,False,False,T2,0.5,False,Exsanguinous
+True,Item_Names.Unique_Name_12,12,False,False,False,T4,0.0,False,Yrun''s Wisdom
+True,Item_Names.Unique_Name_13,13,False,False,False,T4,0.0,False,Titan Heart
+True,Item_Names.Unique_Name_14,14,False,False,False,T4,0.0,False,Valeroot
+True,Item_Names.Unique_Name_15,15,False,False,False,T4,0.0,False,Vipertail
+True,Item_Names.Unique_Name_16,16,False,False,True,T4,0.0,False,Isadora''s Tomb Binding
+True,Item_Names.Unique_Name_17,17,False,False,False,T4,0.0,False,Ward Trail
+True,Item_Names.Unique_Name_18,18,False,False,False,T4,0.0,False,Chains of Uleros
+True,Item_Names.Unique_Name_19,19,False,False,False,T4,0.0,False,Mourningfrost
+True,Item_Names.Unique_Name_20,20,False,False,False,T4,0.0,False,Stormtide
+True,Item_Names.Unique_Name_21,21,False,False,False,T4,0.0,False,Eterra''s Path
+True,Item_Names.Unique_Name_22,22,False,False,False,T4,0.0,False,Keeper''s Gloves
+True,Item_Names.Unique_Name_23,23,False,False,False,T4,0.0,False,Riverbend Grasp
+True,Item_Names.Unique_Name_24,24,False,False,False,T4,0.0,False,Fighting Chance
+True,Item_Names.Unique_Name_25,25,False,False,False,T4,0.0,False,Boulderfists
+True,Item_Names.Unique_Name_26,26,False,False,True,T4,0.0,False,Isadora''s Gravechill
+True,Item_Names.Unique_Name_27,27,False,False,False,T4,0.0,False,Wing Guards
+True,Item_Names.Unique_Name_28,28,False,False,False,T4,0.0,False,Beast King
+True,Item_Names.Unique_Name_29,29,False,False,False,T4,0.0,False,Taste of Blood
+True,Item_Names.Unique_Name_30,30,False,False,False,T2,0.5,False,Undisputed
+True,Item_Names.Unique_Name_31,31,False,False,False,T4,0.0,False,Tempest Maw
+True,Item_Names.Unique_Name_32,32,False,False,False,T4,0.0,False,Frozen Ire
+True,Item_Names.Unique_Name_33,33,False,False,False,T4,0.0,False,Culnivar''s Claim
+True,Item_Names.Unique_Name_34,34,False,False,False,T4,0.0,False,Humming Bee
+True,Item_Names.Unique_Name_35,35,False,False,False,T2,0.7,False,Eye of Reen
+True,Item_Names.Unique_Name_36,36,False,False,False,T4,0.0,False,Rainbow Edge
+True,Item_Names.Unique_Name_37,37,False,False,False,T3,0.25,False,Cinder Song
+True,Item_Names.Unique_Name_38,38,False,False,False,T2,0.5,False,Alchemist''s Ladle
+True,Item_Names.Unique_Name_39,39,False,False,False,T4,0.0,False,Reach of the Grave
+True,Item_Names.Unique_Name_40,40,False,False,False,T4,0.0,False,Bone Harvester
+True,Item_Names.Unique_Name_41,41,False,False,False,T4,0.0,False,Hammer of Lorent
+True,Item_Names.Unique_Name_42,42,False,False,False,T4,0.0,False,Torch Of The Pontifex
+True,Item_Names.Unique_Name_43,43,False,False,False,T4,0.0,False,Storm Breaker
+True,Item_Names.Unique_Name_44,44,False,False,False,T4,0.0,False,Draalsting
+True,Item_Names.Unique_Name_45,45,False,False,False,T1,0.8,False,Morditas'' Reach
+True,Item_Names.Unique_Name_47,47,False,False,False,T4,0.0,False,The Last Laugh
+True,Item_Names.Unique_Name_48,48,False,False,False,T4,0.0,False,Volcanus
+True,Item_Names.Unique_Name_49,49,False,False,False,T4,0.0,False,Dreamthorn
+True,Item_Names.Unique_Name_50,50,False,False,False,T4,0.0,False,The Slab
+True,Item_Names.Unique_Name_51,51,False,False,False,T4,0.0,False,Close Call
+True,Item_Names.Unique_Name_52,52,False,False,False,T4,0.0,False,Soul Bastion
+True,Item_Names.Unique_Name_53,53,False,False,False,T1,0.8,False,Rahyeh''s Light
+True,Item_Names.Unique_Name_54,54,False,False,False,T4,0.0,False,Strong Mind
+True,Item_Names.Unique_Name_55,55,False,False,False,T4,0.0,False,Bleeding Heart
+True,Item_Names.Unique_Name_56,56,False,False,False,T4,0.0,False,Chimaera''s Essence
+True,Item_Names.Unique_Name_57,57,False,False,True,T4,0.0,False,The Invoker''s Frozen Heart
+True,Item_Names.Unique_Name_58,58,False,False,False,T4,0.0,False,The Claw
+True,Item_Names.Unique_Name_59,59,False,False,False,T4,0.0,False,Death Rattle
+True,Item_Names.Unique_Name_60,60,False,False,False,T4,0.0,False,The Fang
+True,Item_Names.Unique_Name_61,61,False,False,False,T0,0.97,False,Orian''s Eye
+True,Item_Names.Unique_Name_62,62,False,False,False,T4,0.0,False,Ring of the Third Eye
+True,Item_Names.Unique_Name_63,63,False,False,True,T4,0.0,False,The Invoker''s Scorching Grasp
+True,Item_Names.Unique_Name_64,64,False,False,True,T4,0.0,False,The Invoker''s Static Touch
+True,Item_Names.Unique_Name_65,65,False,False,False,T4,0.0,False,Arboreal Circuit
+True,Item_Names.Unique_Name_66,66,False,False,False,T4,0.2,False,Hollow Finger
+True,Item_Names.Unique_Name_67,67,False,False,False,T4,0.0,False,Tome of Elements
+True,Item_Names.Unique_Name_68,68,False,False,False,T4,0.0,False,Grimoire of Necrotic Elixirs
+True,Item_Names.Unique_Name_70,70,False,False,False,T4,0.0,False,Soulfire
+True,Item_Names.Unique_Name_71,71,False,False,False,T2,0.6,False,Valdyr''s Chalice
+False,Item_Names.Unique_Name_72,72,False,False,False,T4,0.0,False,Orchirian''s Petals
+True,Item_Names.Unique_Name_73,73,False,False,False,T2,0.5,False,Plague Bearer''s Staff
+True,Item_Names.Unique_Name_74,74,False,False,False,T4,0.0,False,Ignivar''s Head
+True,Item_Names.Unique_Name_75,75,False,False,False,T4,0.0,False,The Scavenger
+True,Item_Names.Unique_Name_76,76,False,False,False,T2,0.5,False,Liath''s Signet
+True,Item_Names.Unique_Name_80,80,False,False,False,T2,0.5,False,Bloodgeon
+True,Item_Names.Unique_Name_81,81,False,False,False,T4,0.0,False,Ucenui''s Sphere
+True,Item_Names.Unique_Name_82,82,False,False,False,T4,0.0,False,Arek''s Bones
+True,Item_Names.Unique_Name_83,83,False,False,False,T4,0.0,False,Maehlin''s Hubris
+True,Item_Names.Unique_Name_84,84,False,False,False,T2,0.7,False,Heirloom of the Last Nomad
+True,Item_Names.Unique_Name_85,85,False,False,True,T4,0.0,False,Sunforged Hammer
+True,Item_Names.Unique_Name_86,86,False,False,True,T4,0.2,False,Sunforged Cuirass
+True,Item_Names.Unique_Name_87,87,False,False,True,T2,0.5,False,Sunforged Greathelm
+True,Item_Names.Unique_Name_88,88,False,False,True,T2,0.7,False,Blade of the Forgotten Knight
+True,Item_Names.Unique_Name_89,89,False,False,True,T4,0.0,False,Defiance of the Forgotten Knight
+True,Item_Names.Unique_Name_90,90,False,False,True,T2,0.7,False,Locket of the Forgotten Knight
+True,Item_Names.Unique_Name_91,91,False,False,False,T2,0.7,False,Fiery Dragon Shoes
+True,Item_Names.Unique_Name_92,92,False,False,False,T1,0.9,False,Jungle Queen''s Chaps of Holding
+True,Item_Names.Unique_Name_93,93,False,False,False,T4,0.2,False,Kermode''s Cage
+True,Item_Names.Unique_Name_94,94,False,False,True,T4,0.0,False,The Last Bear''s Fury
+True,Item_Names.Unique_Name_95,95,False,False,True,T4,0.0,False,The Last Bear''s Scorn
+True,Item_Names.Unique_Name_96,96,False,False,True,T4,0.0,False,The Last Bear''s Lament
+True,Item_Names.Unique_Name_97,97,False,False,True,T4,0.2,False,Halvar''s Pledge
+True,Item_Names.Unique_Name_98,98,False,False,True,T4,0.0,False,Halvar''s Stand
+True,Item_Names.Unique_Name_99,99,False,False,True,T4,0.0,False,Last Gift of the Mountain
+True,Item_Names.Unique_Name_100,100,False,False,True,T4,0.0,False,Pebbles'' Femur
+True,Item_Names.Unique_Name_101,101,False,False,True,T4,0.0,False,Pebbles'' Collar
+True,Item_Names.Unique_Name_102,102,False,False,True,T4,0.0,False,Pebbles'' Bitemarked Sash
+True,Item_Names.Unique_Name_103,103,False,False,False,T4,0.0,False,Legacy of the Quiet Forest
+True,Item_Names.Unique_Name_104,104,False,False,False,T2,0.6,False,Suloron''s Step
+True,Item_Names.Unique_Name_105,105,False,False,False,T4,0.0,False,The Ashen Crown
+True,Item_Names.Unique_Name_106,106,False,False,False,T4,0.0,False,Shroud of Obscurity
+True,Item_Names.Unique_Name_107,107,False,False,False,T4,0.0,False,Murama''s Hilt
+True,Item_Names.Unique_Name_108,108,False,False,False,T2,0.6,False,Melvern''s Writ
+False,Item_Names.Unique_Name_109,109,False,False,True,T4,0.0,False,Shard of the Shattered Lance
+False,Item_Names.Unique_Name_110,110,False,False,True,T4,0.0,False,Fragments of the Shattered Lance
+False,Item_Names.Unique_Name_111,111,False,False,False,T4,0.0,False,Woven Flesh
+False,Item_Names.Unique_Name_112,112,False,False,False,T4,0.0,False,Strands of Souls
+False,Item_Names.Unique_Name_113,113,False,False,False,T4,0.0,False,Ribbons of Blood
+False,Item_Names.Unique_Name_114,114,False,False,False,T4,0.0,False,Frozen Eyes of Formosus
+False,Item_Names.Unique_Name_115,115,False,False,False,T4,0.0,False,Last Steps of the Living
+False,Item_Names.Unique_Name_116,116,False,False,False,T4,0.0,False,Atrophy
+False,Item_Names.Unique_Name_117,117,False,False,False,T4,0.0,False,Dark Shroud of Cinders
+False,Item_Names.Unique_Name_118,118,False,False,False,T4,0.0,False,The Confluence of Fate
+False,Item_Names.Unique_Name_119,119,False,False,False,T4,0.0,False,Bulwark of the Last Abyss
+False,Item_Names.Unique_Name_120,120,False,False,False,T4,0.0,False,Trident of the Last Abyss
+False,Item_Names.Unique_Name_121,121,False,False,False,T4,0.0,False,Coral Aegis
+False,Item_Names.Unique_Name_122,122,False,False,False,T4,0.0,False,Alluvion
+False,Item_Names.Unique_Name_123,123,False,False,False,T4,0.0,False,Symbol of Demise
+False,Item_Names.Unique_Name_124,124,False,False,False,T4,0.0,False,Dragonflame Edict
+True,Item_Names.Unique_Name_125,125,False,False,False,T1,0.85,False,Oceareon
+True,Item_Names.Unique_Name_126,126,False,False,False,T2,0.7,False,Mortality''s Grasp
+True,Item_Names.Unique_Name_127,127,False,False,True,T2,0.7,False,Boardman''s Plank
+True,Item_Names.Unique_Name_128,128,False,False,True,T2,0.7,False,Boardman''s Fallacy
+True,Item_Names.Unique_Name_129,129,False,False,True,T2,0.7,False,Boardman''s Legacy
+False,Item_Names.Unique_Name_130,130,False,False,False,T4,0.0,True,Gambler''s Fallacy
+False,Item_Names.Unique_Name_131,131,False,False,False,T4,0.0,False,Avarice
+True,Item_Names.Unique_Name_132,132,False,False,False,T3,0.3,False,Transient Rest
+True,Item_Names.Unique_Name_133,133,False,False,False,T3,0.3,False,Xithara''s Conundrum
+True,Item_Names.Unique_Name_134,134,False,False,False,T4,0.0,False,Li''raka''s Claws
+True,Item_Names.Unique_Name_135,135,False,False,False,T4,0.0,False,Quicksilver Coil
+True,Item_Names.Unique_Name_136,136,False,False,False,T2,0.5,False,Smoke Weaver
+True,Item_Names.Unique_Name_137,137,False,False,False,T4,0.0,False,Uethrin''s Stand
+True,Item_Names.Unique_Name_138,138,False,False,True,T4,0.0,False,Zerrick''s Guile
+True,Item_Names.Unique_Name_139,139,False,False,True,T2,0.5,False,Zerrick''s Greed
+True,Item_Names.Unique_Name_140,140,False,False,True,T4,0.0,False,Zerrick''s Ambition
+True,Item_Names.Unique_Name_141,141,False,False,False,T4,0.0,False,Hell Reach
+True,Item_Names.Unique_Name_142,142,False,False,False,T4,0.0,False,Drelkor''s Compass
+True,Item_Names.Unique_Name_143,143,False,False,False,T4,0.0,False,Gladiator''s Oath
+True,Item_Names.Unique_Name_144,144,False,False,False,T4,0.0,False,Acidfletch
+True,Item_Names.Unique_Name_145,145,False,False,False,T2,0.5,False,Life''s Journey
+True,Item_Names.Unique_Name_146,146,False,False,False,T4,0.0,False,Troaka''s Teeth
+True,Item_Names.Unique_Name_147,147,False,False,False,T2,0.65,False,Raindance
+True,Item_Names.Unique_Name_148,148,False,False,False,T4,0.0,False,Arrowguard
+True,Item_Names.Unique_Name_149,149,False,False,False,T1,0.9,False,Omnividence
+True,Item_Names.Unique_Name_150,150,False,False,False,T4,0.0,False,Sunwreath
+False,Item_Names.Unique_Name_151,151,False,False,False,T4,0.0,False,Eulogy of Blood
+False,Item_Names.Unique_Name_152,152,False,False,False,T4,0.0,False,Anchor of Oblivion
+False,Item_Names.Unique_Name_153,153,False,False,False,T4,0.0,False,Wings of Argentus
+False,Item_Names.Unique_Name_154,154,False,False,False,T4,0.0,False,Eye of Storms
+False,Item_Names.Unique_Name_155,155,False,False,False,T4,0.0,False,Horns of Uhkeiros
+False,Item_Names.Unique_Name_156,156,False,False,True,T4,0.0,False,Gaspar''s Will
+False,Item_Names.Unique_Name_157,157,False,False,True,T4,0.0,False,Gaspar''s Acuity
+False,Item_Names.Unique_Name_158,158,False,False,True,T4,0.0,False,Gaspar''s Insight
+False,Item_Names.Unique_Name_159,159,False,False,False,T4,0.0,False,Reign of Winter
+False,Item_Names.Unique_Name_160,160,False,False,False,T4,0.0,False,Call of the Tundra
+False,Item_Names.Unique_Name_161,161,False,False,False,T4,0.0,False,Faith of the Frozen
+False,Item_Names.Unique_Name_162,162,False,False,False,T4,0.0,False,Bhuldar''s Wrath
+False,Item_Names.Unique_Name_163,163,False,False,False,T4,0.0,False,Herkir''s Vessel
+False,Item_Names.Unique_Name_164,164,False,False,False,T4,0.0,False,Logi''s Hunger
+True,Item_Names.Unique_Name_165,165,False,False,False,T4,0.0,False,Serpent''s Milk
+True,Item_Names.Unique_Name_166,166,False,False,False,T4,0.0,False,Moenia Mentis
+True,Item_Names.Unique_Name_167,167,False,False,False,T1,0.8,False,Ravens'' Rise
+True,Item_Names.Unique_Name_168,168,False,False,False,T2,0.5,False,Flight of the First
+True,Item_Names.Unique_Name_169,169,False,False,False,T1,0.75,False,Aergon''s Refuge
+True,Item_Names.Unique_Name_170,170,False,False,True,T4,0.0,False,Sinathia''s Dying Breath
+True,Item_Names.Unique_Name_171,171,False,False,True,T4,0.0,False,Sinathia''s Resurrection
+True,Item_Names.Unique_Name_172,172,False,False,False,T2,0.7,False,Herald of the Scurry
+True,Item_Names.Unique_Name_173,173,False,False,True,T4,0.0,False,Ruby Fang Cleaver
+True,Item_Names.Unique_Name_174,174,False,False,True,T4,0.0,False,Ruby Fang Aegis
+False,Item_Names.Unique_Name_175,175,False,False,False,T4,0.0,False,Omnis
+True,Item_Names.Unique_Name_176,176,False,False,False,T1,0.8,False,Aurora''s Time Glass
+False,Item_Names.Unique_Name_177,177,False,False,False,T4,0.0,False,Siphon of Anguish
+False,Item_Names.Unique_Name_178,178,False,False,False,T4,0.0,False,Stymied Fate
+False,Item_Names.Unique_Name_179,179,False,False,False,T4,0.0,False,Apathy''s Maw
+False,Item_Names.Unique_Name_180,180,False,False,False,T4,0.0,False,Shattered Chains
+True,Item_Names.Unique_Name_181,181,False,False,False,T3,0.3,False,Marina''s Lost Soul
+True,Item_Names.Unique_Name_182,182,False,False,False,T4,0.0,False,Eye of Orexia
+True,Item_Names.Unique_Name_183,183,False,False,False,T2,0.7,False,Leviathan Carver
+True,Item_Names.Unique_Name_184,184,False,False,False,T4,0.0,False,Lethal Concentration
+True,Item_Names.Unique_Name_185,185,False,False,True,T1,0.75,False,Vilatria''s Storm Crown
+True,Item_Names.Unique_Name_186,186,False,False,True,T4,0.0,False,Vilatria''s Downfall
+True,Item_Names.Unique_Name_187,187,False,False,False,T1,0.85,False,Salt the Wound
+True,Item_Names.Unique_Name_188,188,False,False,False,T4,0.0,False,Azurral''s Fury
+True,Item_Names.Unique_Name_189,189,False,False,False,T4,0.0,False,Sanguine Hoard
+True,Item_Names.Unique_Name_190,190,False,False,False,T4,0.0,False,Jasper''s Searing Pride
+True,Item_Names.Unique_Name_191,191,False,False,False,T4,0.0,False,Devotion
+True,Item_Names.Unique_Name_192,192,False,False,False,T4,0.0,False,Fulgurite Shard
+True,Item_Names.Unique_Name_193,193,False,False,True,T4,0.0,False,Corsair''s Boarding Shield
+True,Item_Names.Unique_Name_194,194,False,False,True,T4,0.0,False,Corsair''s Blood Cowl
+True,Item_Names.Unique_Name_195,195,False,False,False,T2,0.7,False,Scales of Eterra
+True,Item_Names.Unique_Name_196,196,False,False,False,T2,0.7,False,Scales of Eterra
+True,Item_Names.Unique_Name_197,197,False,False,False,T2,0.7,False,Scales of Eterra
+True,Item_Names.Unique_Name_198,198,False,False,False,T1,0.9,False,Bastion of Honour
+True,Item_Names.Unique_Name_199,199,False,False,False,T4,0.0,False,Rule of the Simoon
+True,Item_Names.Unique_Name_200,200,False,False,False,T4,0.0,False,Tongue of the Aberrant Seer
+True,Item_Names.Unique_Name_201,201,False,False,False,T4,0.0,False,Battlemage''s Endeavour
+True,Item_Names.Unique_Name_202,202,False,False,False,T4,0.0,False,Stormhide Paws
+True,Item_Names.Unique_Name_203,203,False,False,False,T4,0.0,False,Darkstride
+True,Item_Names.Unique_Name_204,204,False,False,False,T4,0.0,False,Thorn Slinger
+True,Item_Names.Unique_Name_205,205,False,False,False,T4,0.0,False,Curse of Perseverance
+True,Item_Names.Unique_Name_206,206,False,False,False,T4,0.0,False,Lessons of the Metropolis
+True,Item_Names.Unique_Name_207,207,False,False,False,T4,0.0,False,Kelthan Blasting Agent
+True,Item_Names.Unique_Name_208,208,False,False,False,T0,0.98,False,Ravenous Void
+True,Item_Names.Unique_Name_209,209,False,False,False,T4,0.0,False,Aberrant Call
+False,Item_Names.Unique_Name_210,210,False,False,False,T4,0.0,False,Flayer''s Pride
+False,Item_Names.Unique_Name_211,211,False,False,False,T4,0.0,False,Throne of Ambition
+False,Item_Names.Unique_Name_212,212,False,False,False,T4,0.0,False,Eternal Eclipse
+False,Item_Names.Unique_Name_213,213,False,False,False,T4,0.0,False,Frostbite Shackles
+False,Item_Names.Unique_Name_214,214,False,False,False,T4,0.0,False,Stormcarved Testament
+False,Item_Names.Unique_Name_215,215,False,False,False,T4,0.0,False,Nightbringer
+False,Item_Names.Unique_Name_216,216,False,False,False,T4,0.0,False,Twisted Heart of Uhkeiros
+False,Item_Names.Unique_Name_217,217,False,False,False,T4,0.0,False,Sacrificial Embrace
+False,Item_Names.Unique_Name_218,218,False,False,False,T4,0.0,False,Yulia''s Path
+False,Item_Names.Unique_Name_219,219,False,False,False,T4,0.0,False,Trinity of Flames
+True,Item_Names.Unique_Name_220,220,False,False,False,T1,0.85,False,Death''s Embrace
+True,Item_Names.Unique_Name_221,221,False,False,False,T1,0.9,False,Paranoia
+True,Item_Names.Unique_Name_222,222,False,False,False,T2,0.6,False,Prismatic Gaze
+True,Item_Names.Unique_Name_223,223,False,False,False,T4,0.0,False,Chronostasis
+True,Item_Names.Unique_Name_224,224,False,False,False,T2,0.6,False,The Judicator
+True,Item_Names.Unique_Name_225,225,False,False,False,T4,0.0,False,Aurelis
+True,Item_Names.Unique_Name_226,226,False,False,False,T4,0.0,False,Tu''rani''s Bident
+True,Item_Names.Unique_Name_227,227,False,False,True,T4,0.0,False,Ferebor''s Chisel
+True,Item_Names.Unique_Name_228,228,False,False,True,T3,0.4,False,Ferebor''s Persistence
+True,Item_Names.Unique_Name_229,229,False,False,False,T3,0.4,False,Roots of Vithrasil
+True,Item_Names.Unique_Name_230,230,False,False,False,T4,0.0,False,Usurper''s Mandate
+True,Item_Names.Unique_Name_231,231,False,False,False,T4,0.0,False,Longshot
+True,Item_Names.Unique_Name_232,232,False,False,False,T2,0.7,False,Hakar''s Phoenix
+True,Item_Names.Unique_Name_233,233,False,False,False,T4,0.0,False,Snowdrift
+True,Item_Names.Unique_Name_234,234,False,False,False,T4,0.0,False,Hazelroot
+True,Item_Names.Unique_Name_235,235,False,False,False,T2,0.7,False,Silvafrond
+True,Item_Names.Unique_Name_236,236,False,False,False,T4,0.0,False,Drought''s Release
+True,Item_Names.Unique_Name_237,237,False,False,False,T4,0.0,False,Thornshell
+False,Item_Names.Unique_Name_238,238,False,False,False,T4,0.0,False,Julra''s Stardial
+False,Item_Names.Unique_Name_239,239,False,False,False,T4,0.0,False,Somnia
+False,Item_Names.Unique_Name_240,240,False,False,False,T4,0.0,False,Julra''s Obsession
+False,Item_Names.Unique_Name_241,241,False,False,False,T4,0.0,False,Vessel of Strife
+True,Item_Names.Unique_Name_242,242,False,False,False,T2,0.6,False,Shadow String
+True,Item_Names.Unique_Name_243,243,False,False,False,T4,0.0,False,Dragonsong
+True,Item_Names.Unique_Name_244,244,False,False,False,T4,0.0,False,Harthenon''s Vow
+True,Item_Names.Unique_Name_245,245,False,False,False,T4,0.0,False,Renegade''s Will
+True,Item_Names.Unique_Name_246,246,False,False,False,T3,0.3,False,Singularity
+True,Item_Names.Unique_Name_247,247,False,False,False,T4,0.0,False,Chronicle of the Damned
+True,Item_Names.Unique_Name_249,249,False,False,False,T2,0.5,False,Diothaen''s Bloody Nib
+True,Item_Names.Unique_Name_250,250,False,False,False,T2,0.5,False,Torkrefin''s Hunger
+True,Item_Names.Unique_Name_251,251,False,False,False,T4,0.2,False,Zeurial''s Hunt
+True,Item_Names.Unique_Name_252,252,False,False,False,T2,0.5,False,Pact Severance
+False,Item_Names.Unique_Name_253,253,False,False,False,T4,0.0,False,Foot of the Mountain
+False,Item_Names.Unique_Name_254,254,False,False,False,T4,0.0,False,Face of the Mountain
+False,Item_Names.Unique_Name_255,255,False,False,False,T4,0.0,False,Core of the Mountain
+False,Item_Names.Unique_Name_256,256,False,False,False,T4,0.0,False,Peak of the Mountain
+False,Item_Names.Unique_Name_257,257,False,False,False,T4,0.0,False,Ashes of Mortality
+False,Item_Names.Unique_Name_258,258,False,False,False,T4,0.0,False,Immolator''s Oblation
+False,Item_Names.Unique_Name_259,259,False,False,False,T4,0.0,False,Pyre of Affliction
+False,Item_Names.Unique_Name_260,260,False,False,True,T4,0.0,False,Lich''s Envy
+False,Item_Names.Unique_Name_261,261,False,False,True,T4,0.0,False,Lich''s Scorn
+False,Item_Names.Unique_Name_262,262,False,False,False,T4,0.0,False,Penumbra
+False,Item_Names.Unique_Name_263,263,False,False,False,T4,0.0,False,Omen of Thunder
+False,Item_Names.Unique_Name_264,264,False,False,False,T4,0.0,False,Vaion''s Chariot
+False,Item_Names.Unique_Name_265,265,False,False,False,T4,0.0,False,Soul Gambler''s Fallacy
+False,Item_Names.Unique_Name_266,266,False,False,False,T4,0.0,False,Burning Avarice
+False,Item_Names.Unique_Name_267,267,False,False,False,T4,0.0,False,Ashes of Orchirian
+True,Item_Names.Unique_Name_268,268,False,False,False,T2,0.6,False,Bloodkeeper''s Nest
+True,Item_Names.Unique_Name_269,269,False,False,False,T2,0.5,False,Scales of Lemniscate
+True,Item_Names.Unique_Name_270,270,False,False,False,T2,0.6,False,Hive Mind
+True,Item_Names.Unique_Name_271,271,False,False,False,T4,0.0,False,Gathering Fury
+True,Item_Names.Unique_Name_272,272,False,False,False,T1,0.75,False,Aaron''s Will
+True,Item_Names.Unique_Name_273,273,False,False,False,T4,0.0,False,Lament of the Lost Refuge
+True,Item_Names.Unique_Name_274,274,False,False,False,T2,0.5,False,Branch of Hallows
+True,Item_Names.Unique_Name_275,275,False,False,False,T2,0.5,False,Unstable Core
+True,Item_Names.Unique_Name_276,276,False,False,False,T4,0.0,False,Liath''s Machinations
+True,Item_Names.Unique_Name_277,277,False,False,False,T0,0.98,False,Red Ring of Atlaria
+True,Item_Names.Unique_Name_278,278,False,False,False,T4,0.0,False,Tears of the Forest
+True,Item_Names.Unique_Name_279,279,False,False,False,T4,0.0,False,Shadow Beacon
+True,Item_Names.Unique_Name_280,280,False,False,False,T4,0.0,False,Telf''un''s Mirage
+True,Item_Names.Unique_Name_281,281,False,False,False,T4,0.0,False,Vortex Pennant
+True,Item_Names.Unique_Name_282,282,False,False,False,T4,0.0,False,Firestarter''s Torch
+True,Item_Names.Unique_Name_283,283,False,False,False,T4,0.0,False,Rotmind
+True,Item_Names.Unique_Name_284,284,False,False,False,T4,0.0,False,The Ghost Maker
+True,Item_Names.Unique_Name_285,285,False,False,False,T4,0.0,False,Jelkhor''s Blast Knife
+True,Item_Names.Unique_Name_286,286,False,False,False,T4,0.0,False,Fragment of the Enigma
+True,Item_Names.Unique_Name_287,287,False,False,False,T4,0.0,False,Hand of Judgement
+True,Item_Names.Unique_Name_288,288,False,False,False,T4,0.0,False,Harbinger of Stars
+True,Item_Names.Unique_Name_289,289,False,False,False,T4,0.0,False,Bo''s Anarchy
+True,Item_Names.Unique_Name_290,290,False,False,False,T2,0.64,False,Apostate''s Sanctuary
+True,Item_Names.Unique_Name_291,291,False,False,False,T4,0.0,False,Pillager''s Gold
+True,Item_Names.Unique_Name_292,292,False,False,False,T4,0.0,False,Apogee of Frozen Light
+True,Item_Names.Unique_Name_293,293,False,False,False,T4,0.0,False,Swaddling of the Erased
+True,Item_Names.Unique_Name_294,294,False,False,False,T4,0.0,False,Font of the Erased
+True,Item_Names.Unique_Name_295,295,False,False,False,T4,0.0,False,Cradle of the Erased
+True,Item_Names.Unique_Name_296,296,False,False,False,T4,0.0,False,Advent of the Erased
+True,Item_Names.Unique_Name_297,297,False,False,False,T4,0.0,False,Dedication of an Erased Primalist
+True,Item_Names.Unique_Name_298,298,False,False,False,T4,0.0,False,Knowledge of an Erased Mage
+True,Item_Names.Unique_Name_299,299,False,False,False,T4,0.0,False,Code of an Erased Sentinel
+True,Item_Names.Unique_Name_300,300,False,False,False,T4,0.0,False,Ambitions of an Erased Acolyte
+True,Item_Names.Unique_Name_301,301,False,False,False,T4,0.0,False,Gambit of an Erased Rogue
+True,Item_Names.Unique_Name_302,302,False,False,False,T4,0.0,False,Howl of the West Wind
+True,Item_Names.Unique_Name_303,303,False,False,False,T4,0.0,False,Cycle of Putrescence
+True,Item_Names.Unique_Name_304,304,False,False,False,T3,0.4,False,Static Shell
+True,Item_Names.Unique_Name_305,305,False,False,False,T4,0.0,False,Reowyn''s Fortress
+True,Item_Names.Unique_Name_306,306,False,False,False,T2,0.5,False,Blood of the Exile
+True,Item_Names.Unique_Name_307,307,False,False,False,T3,0.3,False,Crest of Unity
+True,Item_Names.Unique_Name_308,308,False,False,False,T4,0.0,False,Abacus Rod
+True,Item_Names.Unique_Name_309,309,False,False,False,T4,0.0,False,Elecoe''s Abandon
+True,Item_Names.Unique_Name_310,310,False,False,False,T1,0.8,False,Wrongwarp
+True,Item_Names.Unique_Name_311,311,False,False,False,T4,0.0,False,Transcriber''s Graver
+True,Item_Names.Unique_Name_312,312,False,False,False,T4,0.0,False,Box of Hydrae
+True,Item_Names.Unique_Name_313,313,False,False,False,T4,0.0,False,Fundamental Criterion
+True,Item_Names.Unique_Name_314,314,False,False,False,T4,0.0,False,Cleaver Solution
+True,Item_Names.Unique_Name_315,315,False,False,False,T4,0.0,False,Dragorath''s Claw
+True,Item_Names.Unique_Name_316,316,False,False,False,T3,0.4,False,Apex of Thought
+True,Item_Names.Unique_Name_317,317,False,False,False,T4,0.0,False,Frey''s Retreat
+True,Item_Names.Unique_Name_318,318,False,False,False,T2,0.72,False,The Shattered Cycle
+False,Item_Names.Unique_Name_319,319,False,False,False,T4,0.0,False,Merophage
+False,Item_Names.Unique_Name_320,320,False,False,False,T4,0.0,False,Sierpin''s Fractal Tree
+False,Item_Names.Unique_Name_321,321,False,False,False,T4,0.0,False,Mad Alchemist''s Ladle
+False,Item_Names.Unique_Name_322,322,False,False,False,T4,0.0,False,The Cuckoo
+True,Item_Names.Unique_Name_323,323,False,False,False,T2,0.5,False,Wheel of Torment
+True,Item_Names.Unique_Name_324,324,False,False,False,T4,0.0,False,Unvar''s Rise
+True,Item_Names.Unique_Name_325,325,False,False,False,T4,0.0,False,Unvar''s Hegemony
+True,Item_Names.Unique_Name_326,326,False,False,False,T4,0.0,False,Unvar''s Exile
+True,Item_Names.Unique_Name_327,327,False,False,False,T2,0.7,False,Communion of the Erased
+True,Item_Names.Unique_Name_328,328,False,False,False,T4,0.0,False,Stygian Coal
+True,Item_Names.Unique_Name_329,329,False,False,False,T4,0.0,False,Sigeon''s Reprisal
+True,Item_Names.Unique_Name_330,330,False,False,False,T4,0.0,False,Spine of Malatros
+True,Item_Names.Unique_Name_331,331,False,False,False,T4,0.0,False,Vial of Volatile Ice
+True,Item_Names.Unique_Name_332,332,False,False,False,T2,0.6,False,Blood Roost
+True,Item_Names.Unique_Name_333,333,False,False,False,T4,0.0,False,Falcon Fists
+True,Item_Names.Unique_Name_334,334,False,False,False,T4,0.2,False,Talons of Valor
+True,Item_Names.Unique_Name_335,335,False,False,False,T3,0.35,False,Wraithlord''s Harbour
+True,Item_Names.Unique_Name_336,336,False,False,False,T1,0.8,False,Naal''s Tooth
+True,Item_Names.Unique_Name_337,337,False,False,False,T1,0.8,False,Razorfall
+True,Item_Names.Unique_Name_338,338,False,False,False,T2,0.6,False,Sword Catcher
+False,Item_Names.Unique_Name_339,339,False,False,False,T4,0.0,False,Black Blade of Chaos
+True,Item_Names.Unique_Name_340,340,False,False,False,T4,0.0,False,Orian''s Sun Seal
+True,Item_Names.Unique_Name_341,341,False,False,False,T4,0.0,False,Cruelty
+True,Item_Names.Unique_Name_342,342,False,False,False,T2,0.6,False,Traitor''s Tongue
+False,Item_Names.Unique_Name_343,343,False,False,False,T4,0.0,False,Egg of the Forgotten
+False,Item_Names.Unique_Name_344,344,False,False,False,T4,0.0,False,Harbinger''s Needle
+False,Item_Names.Unique_Name_345,345,False,False,False,T4,0.0,False,Bane of Winter
+True,Item_Names.Unique_Name_346,346,False,False,False,T4,0.0,False,Palarus''s Sacred Light
+False,Item_Names.Unique_Name_347,347,False,False,False,T4,0.0,False,The Inevitable
+True,Item_Names.Unique_Name_348,348,False,False,False,T4,0.0,False,Phantom Grip
+True,Item_Names.Unique_Name_349,349,False,False,False,T4,0.0,False,Yrun''s Penance
+True,Item_Names.Unique_Name_350,350,False,False,False,T4,0.0,False,Flight of Quetzeri
+True,Item_Names.Unique_Name_351,351,False,False,False,T3,0.3,False,Triboelectra
+True,Item_Names.Unique_Name_352,352,False,False,False,T4,0.0,False,Plague Dragon''s Tongue
+False,Item_Names.Unique_Name_353,353,False,False,False,T4,0.0,False,Nihilis
+False,Item_Names.Unique_Name_354,354,False,False,False,T4,0.0,False,Wall of Nothing
+False,Item_Names.Unique_Name_355,355,False,False,False,T4,0.0,False,Aberroth''s Command
+True,Item_Names.Unique_Name_356,356,False,False,False,T2,0.6,False,Stealth
+False,Item_Names.Unique_Name_357,357,False,False,False,T4,0.0,False,Seed of Ekkidrasil
+False,Item_Names.Unique_Name_358,358,False,False,False,T4,0.0,False,Null Portent
+True,Item_Names.Unique_Name_359,359,False,False,False,T4,0.0,False,Fingers of the Phantom Mire
+True,Item_Names.Unique_Name_360,360,False,False,False,T4,0.0,False,Carcinization of Momentum
+False,Item_Names.Unique_Name_361,361,False,False,False,T4,0.0,False,Phase Point
+True,Item_Names.Unique_Name_362,362,False,False,False,T4,0.0,False,Grim Constitution
+True,Item_Names.Unique_Name_363,363,False,False,False,T4,0.0,False,Monument of Protection
+False,Item_Names.Unique_Name_364,364,False,False,False,T4,0.0,False,Event Horizon
+False,Item_Names.Unique_Name_365,365,False,False,False,T4,0.0,False,World Splitter
+False,Item_Names.Unique_Name_366,366,False,False,False,T4,0.0,False,Flames of Midnight
+False,Item_Names.Unique_Name_367,367,False,False,False,T4,0.0,False,Celestial Doom
+True,Item_Names.Unique_Name_368,368,False,False,False,T3,0.3,False,Mana Guide
+True,Item_Names.Unique_Name_369,369,False,False,False,T4,0.0,False,Tolmat''s Incorrect History of Eterra
+True,Item_Names.Unique_Name_370,370,False,False,False,T4,0.0,False,Mantle of the Pale Ox
+True,Item_Names.Unique_Name_371,371,False,False,False,T4,0.0,False,Phalanx
+True,Item_Names.Unique_Name_372,372,False,False,False,T4,0.0,False,Grasp of the Blood Mage
+True,Item_Names.Unique_Name_373,373,False,False,False,T4,0.2,False,Ravager''s Dart
+True,Item_Names.Unique_Name_374,374,False,False,False,T3,0.4,False,Pearls of the Swine
+True,Item_Names.Unique_Name_375,375,False,False,False,T3,0.4,False,Pearls of the Swine
+True,Item_Names.Unique_Name_376,376,False,False,False,T3,0.4,False,Pearls of the Swine
+True,Item_Names.Unique_Name_377,377,False,False,False,T4,0.0,False,Gordian Prism
+True,Item_Names.Unique_Name_378,378,False,False,False,T4,0.0,False,Crystalwind
+False,Item_Names.Unique_Name_379,379,True,False,False,T4,0.0,True,Cocooned Short Sword
+False,Item_Names.Unique_Name_380,380,True,False,False,T4,0.0,True,Cocooned Cleaver
+False,Item_Names.Unique_Name_381,381,True,False,False,T4,0.0,True,Cocooned Club
+False,Item_Names.Unique_Name_382,382,True,False,False,T4,0.0,True,Cocooned Great Sword
+False,Item_Names.Unique_Name_383,383,True,False,False,T4,0.0,True,Cocooned Great Axe
+False,Item_Names.Unique_Name_384,384,True,False,False,T4,0.0,True,Cocooned Great Mace
+False,Item_Names.Unique_Name_385,385,True,False,False,T4,0.0,True,Cocooned Spear
+False,Item_Names.Unique_Name_386,386,True,False,False,T4,0.0,True,Cocooned Staff
+False,Item_Names.Unique_Name_387,387,True,False,False,T4,0.0,True,Cocooned Cuirass
+False,Item_Names.Unique_Name_388,388,True,False,False,T4,0.0,True,Cocooned Dagger
+False,Item_Names.Unique_Name_389,389,True,False,False,T4,0.0,True,Cocooned Sceptre
+False,Item_Names.Unique_Name_390,390,True,False,False,T4,0.0,True,Cocooned Wand
+False,Item_Names.Unique_Name_391,391,True,False,False,T4,0.0,True,Cocooned Bow
+False,Item_Names.Unique_Name_392,392,True,False,False,T4,0.0,True,Cocooned Quiver
+False,Item_Names.Unique_Name_393,393,True,False,False,T4,0.0,True,Cocooned Shield
+False,Item_Names.Unique_Name_394,394,True,False,False,T4,0.0,True,Cocooned Catalyst
+False,Item_Names.Unique_Name_395,395,True,False,False,T4,0.0,True,Cocooned Relic
+False,Item_Names.Unique_Name_396,396,True,False,False,T4,0.0,True,Cocooned Ring
+False,Item_Names.Unique_Name_397,397,True,False,False,T4,0.0,True,Cocooned Amulet
+False,Item_Names.Unique_Name_398,398,True,False,False,T4,0.0,True,Cocooned Gloves
+False,Item_Names.Unique_Name_399,399,True,False,False,T4,0.0,True,Cocooned Belt
+False,Item_Names.Unique_Name_400,400,True,False,False,T4,0.0,True,Cocooned Boots
+False,Item_Names.Unique_Name_401,401,True,False,False,T4,0.0,True,Cocooned Helmet
+True,Item_Names.Unique_Name_402,402,False,False,False,T4,0.0,False,Elecoe''s Innovation
+False,Item_Names.Unique_Name_403,403,False,False,False,T4,0.0,False,Soul of the Mountain
+False,Item_Names.Unique_Name_404,404,False,False,False,T4,0.0,False,Orian''s Descent
+True,Item_Names.Unique_Name_405,405,False,False,False,T4,0.0,False,Orb Weaver''s Fang
+True,Item_Names.Unique_Name_406,406,False,False,False,T4,0.0,False,Nest of Nightmares
+True,Item_Names.Unique_Name_407,407,False,False,False,T4,0.0,False,Essence Weaver
+True,Item_Names.Unique_Name_408,408,False,False,False,T4,0.0,False,Weaver''s Gift
+False,Item_Names.Unique_Name_409,409,False,False,False,T4,0.0,False,Inheritance of the Erased
+False,Item_Names.Unique_Name_410,410,False,False,False,T4,0.0,False,Unearthed Memories
+False,Item_Names.Unique_Name_411,411,False,False,False,T4,0.0,False,Countenance of Majasa
+False,Item_Names.Unique_Name_412,412,False,False,False,T4,0.0,False,Dominance of the Tundra
+False,Item_Names.Unique_Name_413,413,False,False,False,T4,0.0,False,Shattered Worlds
+True,Item_Names.Unique_Name_414,414,False,False,False,T4,0.2,False,Downfall of the Righteous
+False,Item_Names.Unique_Name_415,415,False,False,False,T4,0.0,False,Immortal Vise
+False,Item_Names.Unique_Name_416,416,False,False,False,T4,0.0,False,Brewmaster''s Buckle
+False,Item_Names.Unique_Name_417,417,False,False,False,T4,0.0,False,Clotho''s Needle
+False,Item_Names.Unique_Name_418,418,False,False,False,T4,0.0,False,Scissor of Atropos
+False,Item_Names.Unique_Name_419,419,False,False,False,T4,0.0,False,Blight of Lachesis

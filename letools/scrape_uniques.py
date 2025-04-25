@@ -70,6 +70,11 @@ def scrape_items_data(url, name_url):
                    displayNameKey: data.displayNameKey,
                    rerollChance: data.rerollChance,
                    rarityTier: data.rarityTier,
+                   canDropRandomly: data.canDropRandomly == 1,
+                   unknownDrop: data.unknownDrop == 1,
+                   isSetItem: data.isSetItem == 1,
+                   isCocoonedItem: data.isCocoonedItem == 1,
+                   isPrimordialItem: data.isPrimordialItem == 1,
                 });
             });
 

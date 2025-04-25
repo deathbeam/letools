@@ -101,9 +101,9 @@ def create_filter(items, output_filename):
 def filter_items(items):
     filtered_items = []
     for item in items:
-        if item['rarityTier'] == "T4":
+        if item['rarityTier'] == "T4" and item['canDropRandomly']:
             filtered_items.append(item)
-    print(f"Filtered {len(filtered_items)} items with rarity tier T4")
+    print(f"Filtered {len(filtered_items)} items")
     return filtered_items
 
 
