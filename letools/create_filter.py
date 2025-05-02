@@ -18,14 +18,14 @@ def create_filter(items, output_filename):
     root = ET.Element("ItemFilter")
     # Add rules element
     rules_element = ET.SubElement(root, "rules")
-    # Create a single rule for all unique items
-    rule_element = ET.SubElement(rules_element, "Rule")
 
-    # Add rule type
+    # Register namespace for the i:type attribute
+    ET.register_namespace("i", "http://www.w3.org/2001/XMLSchema-instance")
+
+    # RULE: Hide bad uniques
+    rule_element = ET.SubElement(rules_element, "Rule")
     type_element = ET.SubElement(rule_element, "type")
     type_element.text = "HIDE"
-
-    # Add conditions
     conditions_element = ET.SubElement(rule_element, "conditions")
 
     # Add RarityCondition
@@ -47,7 +47,7 @@ def create_filter(items, output_filename):
     min_ww_element.set("{http://www.w3.org/2001/XMLSchema-instance}nil", "true")
 
     max_ww_element = ET.SubElement(rarity_condition, "maxWeaversWill")
-    max_ww_element.text = "14"
+    max_ww_element.text = "15"
 
     # Add UniquesCondition
     condition_element = ET.SubElement(conditions_element, "Condition")
@@ -58,36 +58,70 @@ def create_filter(items, output_filename):
     # Add unique IDs
     unique_ids_element = ET.SubElement(condition_element, "uniqueIds")
     for item in items:
-        if "id" in item:  # Make sure the item has an ID
+        if "id" in item and item.get("rarityTier") in ["T4"] and item.get("canDropRandomly"):
             id_element = ET.SubElement(unique_ids_element, "unsignedShort")
             id_element.text = str(item["id"])
 
     # Add additional required elements
     color_element = ET.SubElement(rule_element, "color")
-    color_element.text = "5"
-
+    color_element.text = "2"
     is_enabled = ET.SubElement(rule_element, "isEnabled")
     is_enabled.text = "true"
-
     level_dependent = ET.SubElement(rule_element, "levelDependent")
     level_dependent.text = "false"
-
     min_lvl = ET.SubElement(rule_element, "minLvl")
     min_lvl.text = "0"
-
     max_lvl = ET.SubElement(rule_element, "maxLvl")
     max_lvl.text = "0"
-
     emphasized = ET.SubElement(rule_element, "emphasized")
     emphasized.text = "false"
-
     name_override = ET.SubElement(rule_element, "nameOverride")
     name_override.text = "BAD UNIQUES"
 
-    # Register namespace for the i:type attribute
-    ET.register_namespace("i", "http://www.w3.org/2001/XMLSchema-instance")
+    # RULE: Highlight GOOD uniques (T0 and T1)
+    rule_element_good = ET.SubElement(rules_element, "Rule")
+    type_element_good = ET.SubElement(rule_element_good, "type")
+    type_element_good.text = "HIGHLIGHT"
+    conditions_element_good = ET.SubElement(rule_element_good, "conditions")
 
-    # Create and write the tree with pretty formatting
+    # Add RarityCondition
+    rarity_condition_good = ET.SubElement(conditions_element_good, "Condition")
+    rarity_condition_good.set(
+        "{http://www.w3.org/2001/XMLSchema-instance}type", "RarityCondition"
+    )
+
+    rarity_element_good = ET.SubElement(rarity_condition_good, "rarity")
+    rarity_element_good.text = "UNIQUE"
+
+    # Add UniquesCondition for T0 and T1 items
+    condition_element_good = ET.SubElement(conditions_element_good, "Condition")
+    condition_element_good.set(
+        "{http://www.w3.org/2001/XMLSchema-instance}type", "UniquesCondition"
+    )
+
+    # Add unique IDs
+    unique_ids_element_good = ET.SubElement(condition_element_good, "uniqueIds")
+    for item in items:
+        if "id" in item and item.get("rarityTier") in ["T0", "T1"]:
+            id_element = ET.SubElement(unique_ids_element_good, "unsignedShort")
+            id_element.text = str(item["id"])
+
+    # Add additional required elements
+    color_element_good = ET.SubElement(rule_element_good, "color")
+    color_element_good.text = "0"
+    is_enabled_good = ET.SubElement(rule_element_good, "isEnabled")
+    is_enabled_good.text = "true"
+    level_dependent_good = ET.SubElement(rule_element_good, "levelDependent")
+    level_dependent_good.text = "false"
+    min_lvl_good = ET.SubElement(rule_element_good, "minLvl")
+    min_lvl_good.text = "0"
+    max_lvl_good = ET.SubElement(rule_element_good, "maxLvl")
+    max_lvl_good.text = "0"
+    emphasized_good = ET.SubElement(rule_element_good, "emphasized")
+    emphasized_good.text = "true"
+    name_override_good = ET.SubElement(rule_element_good, "nameOverride")
+    name_override_good.text = "GOOD UNIQUES"
+
     with open(output_filename, "w", encoding="utf-8") as f:
         rough_string = ET.tostring(root, "utf-8")
         reparsed = xml.dom.minidom.parseString(rough_string)
@@ -96,15 +130,6 @@ def create_filter(items, output_filename):
         )  # Skip the XML declaration that toprettyxml adds
 
     print(f"Filter saved to {output_filename}")
-
-
-def filter_items(items):
-    filtered_items = []
-    for item in items:
-        if item['rarityTier'] == "T4" and item['canDropRandomly']:
-            filtered_items.append(item)
-    print(f"Filtered {len(filtered_items)} items")
-    return filtered_items
 
 
 def main():
@@ -131,7 +156,6 @@ def main():
 
     # Load data and create filter
     items = load_json_data(args.input)
-    items = filter_items(items)
     create_filter(items, args.output)
 
 

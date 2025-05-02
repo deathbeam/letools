@@ -8,7 +8,7 @@
           <minLegendaryPotential i:nil="true"/>
           <maxLegendaryPotential>0</maxLegendaryPotential>
           <minWeaversWill i:nil="true"/>
-          <maxWeaversWill>14</maxWeaversWill>
+          <maxWeaversWill>15</maxWeaversWill>
         </Condition>
         <Condition i:type="UniquesCondition">
           <uniqueIds>
@@ -220,13 +220,52 @@
           </uniqueIds>
         </Condition>
       </conditions>
-      <color>5</color>
+      <color>2</color>
       <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
       <emphasized>false</emphasized>
       <nameOverride>BAD UNIQUES</nameOverride>
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="RarityCondition">
+          <rarity>UNIQUE</rarity>
+        </Condition>
+        <Condition i:type="UniquesCondition">
+          <uniqueIds>
+            <unsignedShort>45</unsignedShort>
+            <unsignedShort>53</unsignedShort>
+            <unsignedShort>61</unsignedShort>
+            <unsignedShort>92</unsignedShort>
+            <unsignedShort>125</unsignedShort>
+            <unsignedShort>149</unsignedShort>
+            <unsignedShort>167</unsignedShort>
+            <unsignedShort>169</unsignedShort>
+            <unsignedShort>176</unsignedShort>
+            <unsignedShort>185</unsignedShort>
+            <unsignedShort>187</unsignedShort>
+            <unsignedShort>198</unsignedShort>
+            <unsignedShort>208</unsignedShort>
+            <unsignedShort>220</unsignedShort>
+            <unsignedShort>221</unsignedShort>
+            <unsignedShort>272</unsignedShort>
+            <unsignedShort>277</unsignedShort>
+            <unsignedShort>310</unsignedShort>
+            <unsignedShort>336</unsignedShort>
+            <unsignedShort>337</unsignedShort>
+          </uniqueIds>
+        </Condition>
+      </conditions>
+      <color>0</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride>GOOD UNIQUES</nameOverride>
     </Rule>
   </rules>
 </ItemFilter>
